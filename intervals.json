@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:01:34.161653",
+  "generated_at": "2026-08-10T15:43:02.908162",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -2230,6 +2230,34 @@
         }
       ],
       "zone_basis": "power"
+    },
+    {
+      "activity_id": "i174418079",
+      "date": "2026-08-10",
+      "start_datetime": "2026-08-10T16:31:24",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - s\u00e9ance r\u00e9cup\u00e9ration",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3673,
+          "moving_secs": 3673,
+          "start_secs": 0,
+          "end_secs": 3673,
+          "avg_power": 114,
+          "max_power": 537,
+          "avg_hr": 115,
+          "max_hr": 127,
+          "min_hr": 89,
+          "avg_cadence": 78.31881,
+          "zone": 1,
+          "w_bal_start": 15040,
+          "w_bal_end": 13645,
+          "training_load": 42.22976
+        }
+      ],
+      "zone_basis": "power"
     }
   ],
   "fetch_state": {
@@ -2337,6 +2365,25 @@
         "status": "pending",
         "reason": "no_data",
         "next_retry_at": "2026-08-10T19:45:26.800444"
+      }
+    },
+    "i174418079": {
+      "date": "2026-08-10",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-08-10T15:43:02.908162",
+        "last_attempt": "2026-08-10T15:43:02.908162",
+        "status": "ok",
+        "reason": "ok"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-08-10T15:43:02.908162",
+        "last_attempt": "2026-08-10T15:43:02.908162",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-08-10T15:48:02.908162"
       }
     }
   }
