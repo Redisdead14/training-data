@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:37:56.694502",
+  "generated_at": "2026-08-11T00:34:25.542925",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -419,46 +419,6 @@
           "max_hr": 148,
           "min_hr": 115,
           "avg_cadence": 60.639706,
-          "zone": 2
-        }
-      ],
-      "zone_basis": "hr"
-    },
-    {
-      "activity_id": "i169626709",
-      "date": "2026-07-27",
-      "start_datetime": "2026-07-27T09:13:41",
-      "type": "GravelRide",
-      "name": "Pont-H\u00e9bert - S\u00e9ance 3 \u2014 Endurance longue",
-      "interval_summary": [
-        "1x 1h44m 142bpm",
-        "1x 9m30s 137bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "6247s@142bpm81rpm",
-          "duration_secs": 6247,
-          "moving_secs": 6000,
-          "start_secs": 0,
-          "end_secs": 6247,
-          "avg_hr": 142,
-          "max_hr": 167,
-          "min_hr": 91,
-          "avg_cadence": 81.203964,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "570s@137bpm71rpm",
-          "duration_secs": 570,
-          "moving_secs": 570,
-          "start_secs": 6247,
-          "end_secs": 6817,
-          "avg_hr": 137,
-          "max_hr": 157,
-          "min_hr": 117,
-          "avg_cadence": 71.20175,
           "zone": 2
         }
       ],
@@ -2315,23 +2275,6 @@
         "reason": "retry_expired"
       }
     },
-    "i169626709": {
-      "date": "2026-07-27",
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-05T12:32:43.449023",
-        "last_attempt": "2026-08-05T12:32:43.449023",
-        "status": "ok",
-        "reason": "ok"
-      },
-      "streams": {
-        "attempts": 1,
-        "first_seen": "2026-08-05T12:32:43.449023",
-        "last_attempt": "2026-08-05T12:32:43.449023",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i173118406": {
       "date": "2026-08-06",
       "intervals": {
@@ -2378,12 +2321,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 10,
+        "attempts": 11,
         "first_seen": "2026-08-10T15:43:02.908162",
-        "last_attempt": "2026-08-10T23:37:56.694502",
+        "last_attempt": "2026-08-11T00:34:25.542925",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-11T00:07:56.694502"
+        "next_retry_at": "2026-08-11T01:04:25.542925"
       }
     }
   }
