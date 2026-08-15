@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:37:13.340648",
+  "generated_at": "2026-08-15T00:00:14.740692",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -122,194 +122,6 @@
           "max_hr": 137,
           "min_hr": 127,
           "avg_cadence": 39.156628,
-          "zone": 1
-        }
-      ],
-      "zone_basis": "hr"
-    },
-    {
-      "activity_id": "i171164476",
-      "date": "2026-07-31",
-      "start_datetime": "2026-07-31T17:32:08",
-      "type": "GravelRide",
-      "name": "Pont-H\u00e9bert - S\u00e9ance 2 \u2014 VO2max",
-      "interval_summary": [
-        "1x 15m1s 131bpm",
-        "3x 3m 157bpm",
-        "5x 3m 133bpm",
-        "1x 4m31s 152bpm",
-        "1x 6m25s 157bpm",
-        "1x 10m 138bpm",
-        "1x 7m1s 124bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "901s@131bpm85rpm",
-          "duration_secs": 901,
-          "moving_secs": 901,
-          "start_secs": 0,
-          "end_secs": 901,
-          "avg_hr": 131,
-          "max_hr": 142,
-          "min_hr": 92,
-          "avg_cadence": 84.62819,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "180s@157bpm85rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 901,
-          "end_secs": 1081,
-          "avg_hr": 159,
-          "max_hr": 167,
-          "min_hr": 139,
-          "avg_cadence": 83.4,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "180s@133bpm75rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 1081,
-          "end_secs": 1261,
-          "avg_hr": 130,
-          "max_hr": 159,
-          "min_hr": 117,
-          "avg_cadence": 70.32222,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "271s@152bpm87rpm",
-          "duration_secs": 271,
-          "moving_secs": 180,
-          "start_secs": 1261,
-          "end_secs": 1532,
-          "avg_hr": 152,
-          "max_hr": 167,
-          "min_hr": 118,
-          "avg_cadence": 86.91713,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "180s@133bpm75rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 1532,
-          "end_secs": 1712,
-          "avg_hr": 135,
-          "max_hr": 162,
-          "min_hr": 117,
-          "avg_cadence": 86.05,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "180s@157bpm85rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 1712,
-          "end_secs": 1892,
-          "avg_hr": 153,
-          "max_hr": 162,
-          "min_hr": 121,
-          "avg_cadence": 79.32222,
-          "zone": 3
-        },
-        {
-          "type": "WORK",
-          "label": "180s@133bpm75rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 1892,
-          "end_secs": 2072,
-          "avg_hr": 128,
-          "max_hr": 145,
-          "min_hr": 119,
-          "avg_cadence": 80.45556,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "180s@157bpm85rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 2072,
-          "end_secs": 2252,
-          "avg_hr": 160,
-          "max_hr": 167,
-          "min_hr": 126,
-          "avg_cadence": 92.55,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "180s@133bpm75rpm",
-          "duration_secs": 180,
-          "moving_secs": 180,
-          "start_secs": 2252,
-          "end_secs": 2432,
-          "avg_hr": 135,
-          "max_hr": 161,
-          "min_hr": 124,
-          "avg_cadence": 68.8,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "385s@157bpm90rpm",
-          "duration_secs": 385,
-          "moving_secs": 179,
-          "start_secs": 2432,
-          "end_secs": 2817,
-          "avg_hr": 157,
-          "max_hr": 168,
-          "min_hr": 128,
-          "avg_cadence": 90.26111,
-          "zone": 4
-        },
-        {
-          "type": "WORK",
-          "label": "180s@133bpm75rpm",
-          "duration_secs": 181,
-          "moving_secs": 181,
-          "start_secs": 2817,
-          "end_secs": 2998,
-          "avg_hr": 136,
-          "max_hr": 164,
-          "min_hr": 121,
-          "avg_cadence": 70.878456,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "600s@138bpm86rpm",
-          "duration_secs": 600,
-          "moving_secs": 600,
-          "start_secs": 2998,
-          "end_secs": 3598,
-          "avg_hr": 138,
-          "max_hr": 147,
-          "min_hr": 123,
-          "avg_cadence": 86.00833,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "421s@124bpm71rpm",
-          "duration_secs": 421,
-          "moving_secs": 421,
-          "start_secs": 3598,
-          "end_secs": 4019,
-          "avg_hr": 124,
-          "max_hr": 134,
-          "min_hr": 118,
-          "avg_cadence": 70.99763,
           "zone": 1
         }
       ],
@@ -2195,24 +2007,6 @@
         "reason": "retry_expired"
       }
     },
-    "i171164476": {
-      "date": "2026-07-31",
-      "paired_planned": true,
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-05T12:32:43.449023",
-        "last_attempt": "2026-08-05T12:32:43.449023",
-        "status": "ok",
-        "reason": "ok"
-      },
-      "streams": {
-        "attempts": 1,
-        "first_seen": "2026-08-05T12:32:43.449023",
-        "last_attempt": "2026-08-05T12:32:43.449023",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i173118406": {
       "date": "2026-08-06",
       "intervals": {
@@ -2276,12 +2070,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 18,
+        "attempts": 19,
         "first_seen": "2026-08-12T17:16:28.263701",
-        "last_attempt": "2026-08-14T17:39:25.637175",
+        "last_attempt": "2026-08-15T00:00:14.740692",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-14T23:39:25.637175"
+        "next_retry_at": "2026-08-15T06:00:14.740692"
       }
     }
   }
