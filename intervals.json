@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-08-24T23:48:04.926732",
+  "generated_at": "2026-08-25T01:24:04.506405",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i174418079",
-      "date": "2026-08-10",
-      "start_datetime": "2026-08-10T16:31:24",
-      "type": "GravelRide",
-      "name": "Pont-H\u00e9bert - s\u00e9ance r\u00e9cup\u00e9ration",
-      "interval_summary": null,
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3673,
-          "moving_secs": 3673,
-          "start_secs": 0,
-          "end_secs": 3673,
-          "avg_power": 114,
-          "max_power": 537,
-          "avg_hr": 115,
-          "max_hr": 127,
-          "min_hr": 89,
-          "avg_cadence": 78.31881,
-          "zone": 1,
-          "w_bal_start": 15040,
-          "w_bal_end": 13645,
-          "training_load": 42.22976
-        }
-      ],
-      "zone_basis": "power"
-    },
     {
       "activity_id": "i175217567",
       "date": "2026-08-12",
@@ -1870,24 +1842,6 @@
     }
   ],
   "fetch_state": {
-    "i174418079": {
-      "date": "2026-08-10",
-      "paired_planned": true,
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-10T15:43:02.908162",
-        "last_attempt": "2026-08-10T15:43:02.908162",
-        "status": "ok",
-        "reason": "ok"
-      },
-      "streams": {
-        "attempts": 22,
-        "first_seen": "2026-08-10T15:43:02.908162",
-        "last_attempt": "2026-08-13T15:16:02.274305",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i175217567": {
       "date": "2026-08-12",
       "paired_planned": true,
@@ -1990,12 +1944,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 12,
+        "attempts": 13,
         "first_seen": "2026-08-24T15:45:55.248763",
-        "last_attempt": "2026-08-24T23:24:48.638552",
+        "last_attempt": "2026-08-25T01:24:04.506405",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-24T23:54:48.638552"
+        "next_retry_at": "2026-08-25T07:24:04.506405"
       }
     }
   }
