@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T15:06:26.903796",
+  "generated_at": "2026-08-25T16:01:31.492243",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -1839,6 +1839,34 @@
         }
       ],
       "zone_basis": "power"
+    },
+    {
+      "activity_id": "i179675363",
+      "date": "2026-08-25",
+      "start_datetime": "2026-08-25T16:52:11",
+      "type": "VirtualRide",
+      "name": "Zwift - Intervals icu: Sweet Spot / Seuil",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3998,
+          "moving_secs": 3998,
+          "start_secs": 0,
+          "end_secs": 3998,
+          "avg_power": 142,
+          "max_power": 321,
+          "avg_hr": 137,
+          "max_hr": 166,
+          "min_hr": 86,
+          "avg_cadence": 89.95097,
+          "zone": 2,
+          "w_bal_start": 15040,
+          "w_bal_end": 15006,
+          "training_load": 76.46696
+        }
+      ],
+      "zone_basis": "power"
     }
   ],
   "fetch_state": {
@@ -1949,6 +1977,25 @@
         "status": "pending",
         "reason": "no_data",
         "next_retry_at": "2026-08-25T20:06:31.182259"
+      }
+    },
+    "i179675363": {
+      "date": "2026-08-25",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-08-25T16:01:31.492243",
+        "last_attempt": "2026-08-25T16:01:31.492243",
+        "status": "ok",
+        "reason": "ok"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-08-25T16:01:31.492243",
+        "last_attempt": "2026-08-25T16:01:31.492243",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-08-25T16:06:31.492243"
       }
     }
   }
