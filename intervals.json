@@ -1,76 +1,11 @@
 {
-  "generated_at": "2026-08-26T20:38:11.365347",
+  "generated_at": "2026-08-27T00:15:31.165602",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i175217567",
-      "date": "2026-08-12",
-      "start_datetime": "2026-08-12T18:01:17",
-      "type": "GravelRide",
-      "name": "Pont-H\u00e9bert - Sweet Spot / Seuil",
-      "interval_summary": [
-        "1x 95s 134bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1007,
-          "moving_secs": 1001,
-          "start_secs": 0,
-          "end_secs": 1007,
-          "avg_power": 123,
-          "max_power": 399,
-          "avg_hr": 121,
-          "max_hr": 134,
-          "min_hr": 92,
-          "avg_cadence": 81.29341,
-          "zone": 1,
-          "w_bal_start": 15040,
-          "w_bal_end": 14290,
-          "training_load": 13.078599
-        },
-        {
-          "type": "WORK",
-          "label": "95s@185w82rpm",
-          "duration_secs": 95,
-          "moving_secs": 95,
-          "start_secs": 1007,
-          "end_secs": 1102,
-          "avg_power": 185,
-          "max_power": 258,
-          "avg_hr": 134,
-          "max_hr": 142,
-          "min_hr": 126,
-          "avg_cadence": 81.73684,
-          "zone": 2,
-          "w_bal_start": 14250,
-          "w_bal_end": 13350,
-          "training_load": 2.3656223
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2905,
-          "moving_secs": 2903,
-          "start_secs": 1102,
-          "end_secs": 4007,
-          "avg_power": 134,
-          "max_power": 595,
-          "avg_hr": 142,
-          "max_hr": 158,
-          "min_hr": 123,
-          "avg_cadence": 79.84504,
-          "zone": 2,
-          "w_bal_start": 13351,
-          "w_bal_end": 13831,
-          "training_load": 49.2849
-        }
-      ],
-      "zone_basis": "power"
-    },
     {
       "activity_id": "i176011067",
       "date": "2026-08-15",
@@ -1870,24 +1805,6 @@
     }
   ],
   "fetch_state": {
-    "i175217567": {
-      "date": "2026-08-12",
-      "paired_planned": true,
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-12T17:16:28.263701",
-        "last_attempt": "2026-08-12T17:16:28.263701",
-        "status": "ok",
-        "reason": "ok"
-      },
-      "streams": {
-        "attempts": 21,
-        "first_seen": "2026-08-12T17:16:28.263701",
-        "last_attempt": "2026-08-15T13:19:05.849711",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i176011067": {
       "date": "2026-08-15",
       "paired_planned": true,
@@ -1971,12 +1888,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 19,
+        "attempts": 20,
         "first_seen": "2026-08-24T15:45:55.248763",
-        "last_attempt": "2026-08-26T16:20:09.075657",
+        "last_attempt": "2026-08-27T00:15:31.165602",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-26T22:20:09.075657"
+        "next_retry_at": "2026-08-27T06:15:31.165602"
       }
     },
     "i179675363": {
@@ -1990,12 +1907,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 15,
+        "attempts": 16,
         "first_seen": "2026-08-25T16:01:31.492243",
-        "last_attempt": "2026-08-26T16:20:09.075657",
+        "last_attempt": "2026-08-27T00:15:31.165602",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-08-26T22:20:09.075657"
+        "next_retry_at": "2026-08-27T06:15:31.165602"
       }
     }
   }
