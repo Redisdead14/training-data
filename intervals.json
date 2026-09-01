@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T12:46:45.791148",
+  "generated_at": "2026-09-01T16:33:52.360570",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -2184,6 +2184,106 @@
         }
       ],
       "zone_basis": "power"
+    },
+    {
+      "activity_id": "i182142371",
+      "date": "2026-09-01",
+      "start_datetime": "2026-09-01T17:25:48",
+      "type": "VirtualRide",
+      "name": "Zwift - Intervals icu: Sweet Spot / Seuil",
+      "interval_summary": [
+        "2x 9m58s 135bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 904,
+          "moving_secs": 904,
+          "start_secs": 0,
+          "end_secs": 904,
+          "avg_power": 120,
+          "max_power": 214,
+          "avg_hr": 115,
+          "max_hr": 123,
+          "min_hr": 78,
+          "avg_cadence": 86.69358,
+          "zone": 1,
+          "w_bal_start": 15040,
+          "w_bal_end": 15038,
+          "training_load": 10.230874
+        },
+        {
+          "type": "WORK",
+          "label": "598s@159w89rpm",
+          "duration_secs": 597,
+          "moving_secs": 597,
+          "start_secs": 904,
+          "end_secs": 1501,
+          "avg_power": 159,
+          "max_power": 192,
+          "avg_hr": 133,
+          "max_hr": 141,
+          "min_hr": 117,
+          "avg_cadence": 88.28308,
+          "zone": 2,
+          "w_bal_start": 15038,
+          "w_bal_end": 15029,
+          "training_load": 12.011468
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 301,
+          "moving_secs": 301,
+          "start_secs": 1501,
+          "end_secs": 1802,
+          "avg_power": 93,
+          "max_power": 158,
+          "avg_hr": 117,
+          "max_hr": 137,
+          "min_hr": 108,
+          "avg_cadence": 90.88705,
+          "zone": 1,
+          "w_bal_start": 15029,
+          "w_bal_end": 15038,
+          "training_load": 2.3185618
+        },
+        {
+          "type": "WORK",
+          "label": "598s@159w89rpm",
+          "duration_secs": 598,
+          "moving_secs": 598,
+          "start_secs": 1802,
+          "end_secs": 2400,
+          "avg_power": 159,
+          "max_power": 179,
+          "avg_hr": 137,
+          "max_hr": 144,
+          "min_hr": 114,
+          "avg_cadence": 90.518394,
+          "zone": 2,
+          "w_bal_start": 15038,
+          "w_bal_end": 15039,
+          "training_load": 11.881663
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 633,
+          "moving_secs": 633,
+          "start_secs": 2400,
+          "end_secs": 3033,
+          "avg_power": 90,
+          "max_power": 158,
+          "avg_hr": 117,
+          "max_hr": 142,
+          "min_hr": 90,
+          "avg_cadence": 89.86256,
+          "zone": 1,
+          "w_bal_start": 15039,
+          "w_bal_end": 15039,
+          "training_load": 4.489859
+        }
+      ],
+      "zone_basis": "power"
     }
   ],
   "fetch_state": {
@@ -2306,12 +2406,31 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 12,
+        "attempts": 13,
         "first_seen": "2026-08-30T14:56:23.856841",
-        "last_attempt": "2026-09-01T12:46:45.791148",
+        "last_attempt": "2026-09-01T16:33:52.360570",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-09-01T13:16:45.791148"
+        "next_retry_at": "2026-09-01T22:33:52.360570"
+      }
+    },
+    "i182142371": {
+      "date": "2026-09-01",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-09-01T16:33:52.360570",
+        "last_attempt": "2026-09-01T16:33:52.360570",
+        "status": "ok",
+        "reason": "ok"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-09-01T16:33:52.360570",
+        "last_attempt": "2026-09-01T16:33:52.360570",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-09-01T16:38:52.360570"
       }
     }
   }
