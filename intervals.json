@@ -1,217 +1,11 @@
 {
-  "generated_at": "2026-09-01T22:32:05.057179",
+  "generated_at": "2026-09-02T00:33:11.619594",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i177210692",
-      "date": "2026-08-18",
-      "start_datetime": "2026-08-18T16:21:32",
-      "type": "GravelRide",
-      "name": "Pont-H\u00e9bert - Sweet Spot / Seuil",
-      "interval_summary": [
-        "4x 2m12s 139bpm",
-        "1x 80s 141bpm"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1324,
-          "moving_secs": 1318,
-          "start_secs": 0,
-          "end_secs": 1324,
-          "avg_power": 148,
-          "max_power": 673,
-          "avg_hr": 122,
-          "max_hr": 143,
-          "min_hr": 93,
-          "avg_cadence": 86.78772,
-          "zone": 1,
-          "w_bal_start": 15040,
-          "w_bal_end": 8754,
-          "training_load": 25.189339
-        },
-        {
-          "type": "WORK",
-          "label": "132s@182w87rpm",
-          "duration_secs": 132,
-          "moving_secs": 132,
-          "start_secs": 1324,
-          "end_secs": 1456,
-          "avg_power": 177,
-          "max_power": 274,
-          "avg_hr": 140,
-          "max_hr": 145,
-          "min_hr": 135,
-          "avg_cadence": 88.393936,
-          "zone": 2,
-          "w_bal_start": 8762,
-          "w_bal_end": 8875,
-          "training_load": 3.6666667
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 14,
-          "moving_secs": 14,
-          "start_secs": 1456,
-          "end_secs": 1470,
-          "avg_power": 218,
-          "max_power": 524,
-          "avg_hr": 136,
-          "max_hr": 138,
-          "min_hr": 135,
-          "avg_cadence": 74.64286,
-          "zone": 2,
-          "w_bal_start": 8889,
-          "w_bal_end": 8120,
-          "training_load": 0.3604682
-        },
-        {
-          "type": "WORK",
-          "label": "132s@182w87rpm",
-          "duration_secs": 139,
-          "moving_secs": 139,
-          "start_secs": 1470,
-          "end_secs": 1609,
-          "avg_power": 188,
-          "max_power": 394,
-          "avg_hr": 139,
-          "max_hr": 144,
-          "min_hr": 136,
-          "avg_cadence": 92.92086,
-          "zone": 2,
-          "w_bal_start": 8126,
-          "w_bal_end": 7067,
-          "training_load": 4.0692205
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 126,
-          "moving_secs": 126,
-          "start_secs": 1609,
-          "end_secs": 1735,
-          "avg_power": 176,
-          "max_power": 303,
-          "avg_hr": 137,
-          "max_hr": 142,
-          "min_hr": 134,
-          "avg_cadence": 87.690475,
-          "zone": 2,
-          "w_bal_start": 7093,
-          "w_bal_end": 7266,
-          "training_load": 3.244214
-        },
-        {
-          "type": "WORK",
-          "label": "132s@182w87rpm",
-          "duration_secs": 127,
-          "moving_secs": 127,
-          "start_secs": 1735,
-          "end_secs": 1862,
-          "avg_power": 179,
-          "max_power": 321,
-          "avg_hr": 136,
-          "max_hr": 139,
-          "min_hr": 134,
-          "avg_cadence": 83.125984,
-          "zone": 2,
-          "w_bal_start": 7269,
-          "w_bal_end": 7268,
-          "training_load": 3.1624634
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 720,
-          "moving_secs": 720,
-          "start_secs": 1862,
-          "end_secs": 2582,
-          "avg_power": 152,
-          "max_power": 583,
-          "avg_hr": 131,
-          "max_hr": 148,
-          "min_hr": 118,
-          "avg_cadence": 84.10555,
-          "zone": 1,
-          "w_bal_start": 7284,
-          "w_bal_end": 7690,
-          "training_load": 16.546515
-        },
-        {
-          "type": "WORK",
-          "label": "80s@191w87rpm",
-          "duration_secs": 80,
-          "moving_secs": 80,
-          "start_secs": 2582,
-          "end_secs": 2662,
-          "avg_power": 191,
-          "max_power": 258,
-          "avg_hr": 141,
-          "max_hr": 143,
-          "min_hr": 139,
-          "avg_cadence": 87.025,
-          "zone": 2,
-          "w_bal_start": 7634,
-          "w_bal_end": 7069,
-          "training_load": 2.1518662
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 327,
-          "moving_secs": 327,
-          "start_secs": 2662,
-          "end_secs": 2989,
-          "avg_power": 163,
-          "max_power": 317,
-          "avg_hr": 132,
-          "max_hr": 141,
-          "min_hr": 123,
-          "avg_cadence": 83.39143,
-          "zone": 2,
-          "w_bal_start": 7078,
-          "w_bal_end": 8993,
-          "training_load": 7.2535086
-        },
-        {
-          "type": "WORK",
-          "label": "132s@182w87rpm",
-          "duration_secs": 129,
-          "moving_secs": 129,
-          "start_secs": 2989,
-          "end_secs": 3118,
-          "avg_power": 185,
-          "max_power": 292,
-          "avg_hr": 139,
-          "max_hr": 142,
-          "min_hr": 134,
-          "avg_cadence": 84.379845,
-          "zone": 2,
-          "w_bal_start": 8994,
-          "w_bal_end": 8338,
-          "training_load": 3.4324732
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 641,
-          "moving_secs": 629,
-          "start_secs": 3118,
-          "end_secs": 3759,
-          "avg_power": 119,
-          "max_power": 653,
-          "avg_hr": 123,
-          "max_hr": 140,
-          "min_hr": 113,
-          "avg_cadence": 72.96508,
-          "zone": 1,
-          "w_bal_start": 8352,
-          "w_bal_end": 13155,
-          "training_load": 8.341192
-        }
-      ],
-      "zone_basis": "power"
-    },
     {
       "activity_id": "i177973316",
       "date": "2026-08-20",
@@ -2287,24 +2081,6 @@
     }
   ],
   "fetch_state": {
-    "i177210692": {
-      "date": "2026-08-18",
-      "paired_planned": true,
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-08-18T15:35:54.713626",
-        "last_attempt": "2026-08-18T15:35:54.713626",
-        "status": "ok",
-        "reason": "ok"
-      },
-      "streams": {
-        "attempts": 22,
-        "first_seen": "2026-08-18T15:35:54.713626",
-        "last_attempt": "2026-08-21T11:29:37.041391",
-        "status": "tombstone",
-        "reason": "retry_expired"
-      }
-    },
     "i177973316": {
       "date": "2026-08-20",
       "paired_planned": true,
@@ -2406,12 +2182,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 13,
+        "attempts": 14,
         "first_seen": "2026-08-30T14:56:23.856841",
-        "last_attempt": "2026-09-01T16:33:52.360570",
+        "last_attempt": "2026-09-02T00:33:11.619594",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-09-01T22:33:52.360570"
+        "next_retry_at": "2026-09-02T06:33:11.619594"
       }
     },
     "i182142371": {
@@ -2425,12 +2201,12 @@
         "reason": "ok"
       },
       "streams": {
-        "attempts": 4,
+        "attempts": 5,
         "first_seen": "2026-09-01T16:33:52.360570",
-        "last_attempt": "2026-09-01T22:32:05.057179",
+        "last_attempt": "2026-09-02T00:33:11.619594",
         "status": "pending",
         "reason": "no_data",
-        "next_retry_at": "2026-09-01T22:37:05.057179"
+        "next_retry_at": "2026-09-02T00:38:11.619594"
       }
     }
   }
