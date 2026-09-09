@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:57:05.645341",
+  "generated_at": "2026-09-09T15:42:13.048349",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -2938,6 +2938,115 @@
         }
       ],
       "zone_basis": "power"
+    },
+    {
+      "activity_id": "i184952268",
+      "date": "2026-09-09",
+      "start_datetime": "2026-09-09T16:29:07",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - r\u00e9cup\u00e9ration",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3724,
+          "moving_secs": 3667,
+          "start_secs": 0,
+          "end_secs": 3724,
+          "avg_power": 146,
+          "max_power": 561,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "min_hr": 75,
+          "avg_cadence": 83.7795,
+          "zone": 1,
+          "w_bal_start": 15600,
+          "w_bal_end": 13971,
+          "training_load": 62.656567
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 1.063,
+        "p25": 0.969,
+        "p50": 1.056,
+        "p75": 1.15,
+        "tiz_easy": {
+          "secs": 2353,
+          "pct": 66.1,
+          "avg_hr": 127,
+          "avg_watts": 148
+        },
+        "tiz_endurance": {
+          "secs": 1203,
+          "pct": 33.8,
+          "avg_hr": 128,
+          "avg_watts": 151
+        },
+        "tiz_tempo": {
+          "secs": 1,
+          "pct": 0.0,
+          "avg_hr": 116,
+          "avg_watts": 178
+        },
+        "tiz_supra": {
+          "secs": 1,
+          "pct": 0.0,
+          "avg_hr": 115,
+          "avg_watts": 169
+        },
+        "drift": {
+          "first_third_avg": 1.009,
+          "last_third_avg": 1.119,
+          "delta": 0.11,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 1031,
+          "contiguous_secs": 130,
+          "n_qualifying_segments": 4,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 130,
+          "avg_watts": 152
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 14,
+          "contiguous_secs": 9,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "insufficient_total_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "insufficient_total_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 0,
+          "contiguous_secs": 0,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_samples_in_band",
+          "estimate_eligible": false,
+          "estimate_reason": "no_samples_in_band",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "quality": {
+          "valid_secs": 3558,
+          "total_secs": 3669,
+          "valid_pct": 97.0,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.24,
+          "sufficient": true
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -3028,6 +3137,24 @@
         "last_attempt": "2026-09-09T06:43:43.227660",
         "status": "tombstone",
         "reason": "retry_expired"
+      }
+    },
+    "i184952268": {
+      "date": "2026-09-09",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-09-09T15:42:13.048349",
+        "last_attempt": "2026-09-09T15:42:13.048349",
+        "status": "ok",
+        "reason": "ok"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-09-09T15:42:13.048349",
+        "last_attempt": "2026-09-09T15:42:13.048349",
+        "status": "ok",
+        "reason": "ok"
       }
     }
   }
