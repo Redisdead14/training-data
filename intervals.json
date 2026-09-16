@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T12:07:26.516429",
+  "generated_at": "2026-09-16T15:37:53.131936",
   "schema_version": 1,
   "version": "3.122",
   "script_hash": "5216d761e3d0",
@@ -4029,6 +4029,62 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i187345760",
+      "date": "2026-09-16",
+      "start_datetime": "2026-09-16T16:26:37",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - R\u00e9cup\u00e9ration Z1",
+      "interval_summary": [
+        "1x 68s 212w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 758,
+          "moving_secs": 754,
+          "start_secs": 0,
+          "end_secs": 758,
+          "avg_power": 154,
+          "max_power": 640,
+          "avg_cadence": 83.157616,
+          "zone": 3,
+          "w_bal_start": 15600,
+          "w_bal_end": 11721,
+          "training_load": 14.100665
+        },
+        {
+          "type": "WORK",
+          "label": "68s@212w100rpm",
+          "duration_secs": 68,
+          "moving_secs": 68,
+          "start_secs": 758,
+          "end_secs": 826,
+          "avg_power": 212,
+          "max_power": 292,
+          "avg_cadence": 99.64706,
+          "zone": 5,
+          "w_bal_start": 11653,
+          "w_bal_end": 10259,
+          "training_load": 2.6507034
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2907,
+          "moving_secs": 2850,
+          "start_secs": 826,
+          "end_secs": 3733,
+          "avg_power": 137,
+          "max_power": 631,
+          "avg_cadence": 79.5819,
+          "zone": 2,
+          "w_bal_start": 10264,
+          "w_bal_end": 14705,
+          "training_load": 44.379135
+        }
+      ],
+      "zone_basis": "power"
     }
   ],
   "fetch_state": {
@@ -4119,6 +4175,24 @@
         "last_attempt": "2026-09-12T15:53:42.616219",
         "status": "ok",
         "reason": "ok"
+      }
+    },
+    "i187345760": {
+      "date": "2026-09-16",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-09-16T15:37:53.131936",
+        "last_attempt": "2026-09-16T15:37:53.131936",
+        "status": "ok",
+        "reason": "ok"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-09-16T15:37:53.131936",
+        "last_attempt": "2026-09-16T15:37:53.131936",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-09-16T15:42:53.131936"
       }
     }
   }
