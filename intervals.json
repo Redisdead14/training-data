@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:54:18.974416",
+  "generated_at": "2026-09-30T15:44:20.385871",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -2883,6 +2883,115 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i191925831",
+      "date": "2026-09-30",
+      "start_datetime": "2026-09-30T16:39:01",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - Recuperation Z1",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3668,
+          "moving_secs": 3653,
+          "start_secs": 0,
+          "end_secs": 3668,
+          "avg_power": 150,
+          "max_power": 672,
+          "avg_hr": 125,
+          "max_hr": 138,
+          "min_hr": 88,
+          "avg_cadence": 84.25226,
+          "zone": 1,
+          "w_bal_start": 15600,
+          "w_bal_end": 14313,
+          "training_load": 65.74147
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 1.109,
+        "p25": 1.017,
+        "p50": 1.102,
+        "p75": 1.209,
+        "tiz_easy": {
+          "secs": 2674,
+          "pct": 78.0,
+          "avg_hr": 127,
+          "avg_watts": 152
+        },
+        "tiz_endurance": {
+          "secs": 740,
+          "pct": 21.6,
+          "avg_hr": 126,
+          "avg_watts": 142
+        },
+        "tiz_tempo": {
+          "secs": 15,
+          "pct": 0.4,
+          "avg_hr": 128,
+          "avg_watts": 155
+        },
+        "tiz_supra": {
+          "secs": 1,
+          "pct": 0.0,
+          "avg_hr": 114,
+          "avg_watts": 253
+        },
+        "drift": {
+          "first_third_avg": 1.058,
+          "last_third_avg": 1.157,
+          "delta": 0.099,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 662,
+          "contiguous_secs": 130,
+          "n_qualifying_segments": 1,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 128,
+          "avg_watts": 158
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 34,
+          "contiguous_secs": 22,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "insufficient_total_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "insufficient_total_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 0,
+          "contiguous_secs": 0,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_samples_in_band",
+          "estimate_eligible": false,
+          "estimate_reason": "no_samples_in_band",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "quality": {
+          "valid_secs": 3430,
+          "total_secs": 3655,
+          "valid_pct": 93.8,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.76,
+          "sufficient": true
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -2976,6 +3085,25 @@
         "attempts": 1,
         "first_seen": "2026-09-26T10:28:10.358632",
         "last_attempt": "2026-09-26T10:28:10.358632",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i191925831": {
+      "date": "2026-09-30",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-09-30T15:44:20.385871",
+        "last_attempt": "2026-09-30T15:44:20.385871",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-09-30T15:41:02.210+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-09-30T15:44:20.385871",
+        "last_attempt": "2026-09-30T15:44:20.385871",
         "status": "ok",
         "reason": "ok"
       }
