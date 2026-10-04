@@ -1,0 +1,418 @@
+[
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-05T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-10-05-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-06T00:00:00",
+    "type": "VirtualRide",
+    "name": "SS-1 · Sweet spot 3×10'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 3x\n- 10m 88-92% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-06-SS-1"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-06T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Lower · Jambes lourdes + sauts",
+    "description": "RPE cible 7/10. 6-8 reps lourdes à RIR 2-3 : jamais à l'échec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 séries passent à RIR 3, augmenter la charge.\nAu moins 3 h après la séance vélo (6 h idéalement). Sinon juste après, plutôt que de la sauter.\nCharge à saisir en S-RPE (RPE x minutes).\n\nÉchauffement\n- 5m Squats à vide, fentes marchées, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, réception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulevé de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos",
+    "external_id": "plan-automne-2026-2026-10-06-F-Lower"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-08T00:00:00",
+    "type": "VirtualRide",
+    "name": "V-1 · VO2max 5×3'",
+    "description": "Échauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nVO2max 5x\n- 3m 110-115% 95-100rpm\n- 3m 50%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-08-V-1"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-09T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push",
+    "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-10-09-F-Upper"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-10T00:00:00",
+    "type": "Ride",
+    "name": "E-2h00 · Longue Z2 2h00",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h35m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-10-10-E-2h00"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-11T00:00:00",
+    "type": "VirtualRide",
+    "name": "E-60 · Z2 HT 60'",
+    "description": "- 10m ramp 50-65% 85-95rpm\n- 45m 65-70% 85-95rpm\n- 5m 50%",
+    "external_id": "plan-automne-2026-2026-10-11-E-60"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-12T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-10-12-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-13T00:00:00",
+    "type": "VirtualRide",
+    "name": "SS-2 · Sweet spot 3×12'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 3x\n- 12m 88-92% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-13-SS-2"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-13T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Lower · Jambes lourdes + sauts",
+    "description": "RPE cible 7/10. 6-8 reps lourdes à RIR 2-3 : jamais à l'échec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 séries passent à RIR 3, augmenter la charge.\nAu moins 3 h après la séance vélo (6 h idéalement). Sinon juste après, plutôt que de la sauter.\nCharge à saisir en S-RPE (RPE x minutes).\n\nÉchauffement\n- 5m Squats à vide, fentes marchées, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, réception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulevé de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos",
+    "external_id": "plan-automne-2026-2026-10-13-F-Lower"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-15T00:00:00",
+    "type": "VirtualRide",
+    "name": "V-2 · VO2max 6×3'",
+    "description": "Échauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nVO2max 6x\n- 3m 110-115% 95-100rpm\n- 3m 50%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-15-V-2"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-16T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push",
+    "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-10-16-F-Upper"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-17T00:00:00",
+    "type": "Ride",
+    "name": "E-2h15 · Longue Z2 2h15",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h50m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-10-17-E-2h15"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-18T00:00:00",
+    "type": "VirtualRide",
+    "name": "E-60 · Z2 HT 60'",
+    "description": "- 10m ramp 50-65% 85-95rpm\n- 45m 65-70% 85-95rpm\n- 5m 50%",
+    "external_id": "plan-automne-2026-2026-10-18-E-60"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-19T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-10-19-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-20T00:00:00",
+    "type": "VirtualRide",
+    "name": "SS-3 · Sweet spot 2×20'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 2x\n- 20m 88-92% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-20-SS-3"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-20T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Lower · Jambes lourdes + sauts",
+    "description": "RPE cible 7/10. 6-8 reps lourdes à RIR 2-3 : jamais à l'échec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 séries passent à RIR 3, augmenter la charge.\nAu moins 3 h après la séance vélo (6 h idéalement). Sinon juste après, plutôt que de la sauter.\nCharge à saisir en S-RPE (RPE x minutes).\n\nÉchauffement\n- 5m Squats à vide, fentes marchées, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, réception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulevé de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos",
+    "external_id": "plan-automne-2026-2026-10-20-F-Lower"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-22T00:00:00",
+    "type": "VirtualRide",
+    "name": "V-3 · VO2max 5×4'",
+    "description": "Échauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nVO2max 5x\n- 4m 106-110% 95-100rpm\n- 4m 50%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-22-V-3"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-23T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push",
+    "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-10-23-F-Upper"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-24T00:00:00",
+    "type": "Ride",
+    "name": "E-2h30 · Longue Z2 2h30",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 2h5m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-10-24-E-2h30"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-25T00:00:00",
+    "type": "VirtualRide",
+    "name": "E-75 · Z2 HT 75' + vélocité",
+    "description": "Échauffement\n- 10m ramp 50-65%\n\nEndurance\n- 15m 65-70% 85-90rpm\n\nVélocité 3x\n- 5m 65-70% 100rpm\n- 5m 65-70% 85-90rpm\n\n- 15m 65-70% 85-90rpm\n\nRetour au calme\n- 5m 50%",
+    "external_id": "plan-automne-2026-2026-10-25-E-75"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-26T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-10-26-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-27T00:00:00",
+    "type": "VirtualRide",
+    "name": "R-1 · Rappel décharge 2×10'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 2x\n- 10m 88-92% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 8m 50%",
+    "external_id": "plan-automne-2026-2026-10-27-R-1"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-29T00:00:00",
+    "type": "VirtualRide",
+    "name": "TEST · Test rampe Zwift",
+    "description": "Test rampe Zwift, même protocole que le 03/09, D500 en source.\nRepos complet la veille ou Z1 30 min maximum.\n\n- 30m freeride\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-10-29-TEST"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-30T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push (décharge)",
+    "description": "Semaine de décharge : 2 séries par exercice au lieu de 3.\n\nRPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 2x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 2x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 2x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 2x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 2x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-10-30-F-Upper-D"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-10-31T00:00:00",
+    "type": "Ride",
+    "name": "E-1h30 · Longue Z2 1h30",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h5m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-10-31-E-1h30"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-02T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-11-02-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-03T00:00:00",
+    "type": "VirtualRide",
+    "name": "T-1 · Seuil 3×12'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSeuil 3x\n- 12m 95-100% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-03-T-1"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-03T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Lower · Jambes lourdes + sauts",
+    "description": "RPE cible 7/10. 6-8 reps lourdes à RIR 2-3 : jamais à l'échec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 séries passent à RIR 3, augmenter la charge.\nAu moins 3 h après la séance vélo (6 h idéalement). Sinon juste après, plutôt que de la sauter.\nCharge à saisir en S-RPE (RPE x minutes).\n\nÉchauffement\n- 5m Squats à vide, fentes marchées, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, réception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulevé de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos",
+    "external_id": "plan-automne-2026-2026-11-03-F-Lower"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-05T00:00:00",
+    "type": "VirtualRide",
+    "name": "V-4 · 30\"/15\" 2 séries de 10",
+    "description": "Échauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nSérie 1 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 3m 50%\n\nSérie 2 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 10m 60-65%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-05-V-4"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-06T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push",
+    "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-11-06-F-Upper"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-07T00:00:00",
+    "type": "Ride",
+    "name": "E-2h15 · Longue Z2 2h15",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h50m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-11-07-E-2h15"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-08T00:00:00",
+    "type": "VirtualRide",
+    "name": "E-60 · Z2 HT 60'",
+    "description": "- 10m ramp 50-65% 85-95rpm\n- 45m 65-70% 85-95rpm\n- 5m 50%",
+    "external_id": "plan-automne-2026-2026-11-08-E-60"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-09T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-11-09-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-10T00:00:00",
+    "type": "VirtualRide",
+    "name": "T-2 · Seuil 3×15'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSeuil 3x\n- 15m 94-98% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-10-T-2"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-10T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Lower · Jambes lourdes + sauts",
+    "description": "RPE cible 7/10. 6-8 reps lourdes à RIR 2-3 : jamais à l'échec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 séries passent à RIR 3, augmenter la charge.\nAu moins 3 h après la séance vélo (6 h idéalement). Sinon juste après, plutôt que de la sauter.\nCharge à saisir en S-RPE (RPE x minutes).\n\nÉchauffement\n- 5m Squats à vide, fentes marchées, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, réception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulevé de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos",
+    "external_id": "plan-automne-2026-2026-11-10-F-Lower"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-12T00:00:00",
+    "type": "VirtualRide",
+    "name": "V-5 · 30\"/15\" 3 séries de 10",
+    "description": "Échauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nSérie 1 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 3m 50%\n\nSérie 2 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 3m 50%\n\nSérie 3 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 5m 60-65%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-12-V-5"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-13T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push",
+    "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-11-13-F-Upper"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-14T00:00:00",
+    "type": "Ride",
+    "name": "E-2h30 · Longue Z2 2h30",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 2h5m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-11-14-E-2h30"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-15T00:00:00",
+    "type": "VirtualRide",
+    "name": "E-75 · Z2 HT 75' + vélocité",
+    "description": "Échauffement\n- 10m ramp 50-65%\n\nEndurance\n- 15m 65-70% 85-90rpm\n\nVélocité 3x\n- 5m 65-70% 100rpm\n- 5m 65-70% 85-90rpm\n\n- 15m 65-70% 85-90rpm\n\nRetour au calme\n- 5m 50%",
+    "external_id": "plan-automne-2026-2026-11-15-E-75"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-16T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-11-16-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-17T00:00:00",
+    "type": "VirtualRide",
+    "name": "T-3 · Over-under 3×10'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nOver-under bloc 1 3x\n- 2m 95%\n- 1m 105%\n\n- 1m 95%\n- 6m 55%\n\nOver-under bloc 2 3x\n- 2m 95%\n- 1m 105%\n\n- 1m 95%\n- 6m 55%\n\nOver-under bloc 3 3x\n- 2m 95%\n- 1m 105%\n\n- 1m 95%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-17-T-3"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-17T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Lower · Jambes lourdes + sauts",
+    "description": "RPE cible 7/10. 6-8 reps lourdes à RIR 2-3 : jamais à l'échec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 séries passent à RIR 3, augmenter la charge.\nAu moins 3 h après la séance vélo (6 h idéalement). Sinon juste après, plutôt que de la sauter.\nCharge à saisir en S-RPE (RPE x minutes).\n\nÉchauffement\n- 5m Squats à vide, fentes marchées, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, réception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulevé de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos",
+    "external_id": "plan-automne-2026-2026-11-17-F-Lower"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-19T00:00:00",
+    "type": "VirtualRide",
+    "name": "V-6 · VO2max 4×5'",
+    "description": "Échauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nVO2max 4x\n- 5m 106-110% 95-100rpm\n- 5m 50%\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-19-V-6"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-20T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push",
+    "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-11-20-F-Upper"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-21T00:00:00",
+    "type": "Ride",
+    "name": "E-2h45 · Longue Z2 2h45",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 2h20m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-11-21-E-2h45"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-22T00:00:00",
+    "type": "VirtualRide",
+    "name": "E-75 · Z2 HT 75' + vélocité",
+    "description": "Échauffement\n- 10m ramp 50-65%\n\nEndurance\n- 15m 65-70% 85-90rpm\n\nVélocité 3x\n- 5m 65-70% 100rpm\n- 5m 65-70% 85-90rpm\n\n- 15m 65-70% 85-90rpm\n\nRetour au calme\n- 5m 50%",
+    "external_id": "plan-automne-2026-2026-11-22-E-75"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-23T00:00:00",
+    "type": "WeightTraining",
+    "name": "Mobilité · plan automne",
+    "description": "Mobilite cycliste - 20 min. Statique, respiration lente.\nTension confortable, jamais de douleur, aucun rebond.\n\n- 1m Chat-vache [10 cycles, mobiliser le HAUT du dos]\n- 2m Fente basse psoas [60s/cote - contracter le fessier arriere]\n- 2m Couch stretch [60s/cote - buste vertical, pas penche]\n- 2m Ischio debout [60s/cote - dos plat, ne pas toucher le pied]\n- 1m30 Mollet jambe tendue [45s/cote - talon plaque]\n- 1m30 Mollet genou flechi [45s/cote - soleaire, talon plaque]\n- 2m Figure-4 [60s/cote - epaules au sol, sangle si besoin]\n- 2m 90/90 hanches [60s/cote - dos droit avant de pencher]\n- 1m30 Extension thoracique [cotes basses, ventre gaine]\n- 2m Ouverture en rotation [60s/cote - genou du dessus maintenu]",
+    "external_id": "plan-automne-2026-2026-11-23-MOB"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-24T00:00:00",
+    "type": "VirtualRide",
+    "name": "R-2 · Rappel seuil 2×12'",
+    "description": "Échauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSeuil 2x\n- 12m 93-97% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 8m 50%",
+    "external_id": "plan-automne-2026-2026-11-24-R-2"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-26T00:00:00",
+    "type": "VirtualRide",
+    "name": "TEST · Test rampe Zwift",
+    "description": "Test rampe Zwift, même protocole que le 03/09, D500 en source.\nRepos complet la veille ou Z1 30 min maximum.\n\n- 30m freeride\n\nRetour au calme\n- 10m 50%",
+    "external_id": "plan-automne-2026-2026-11-26-TEST"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-27T00:00:00",
+    "type": "WeightTraining",
+    "name": "F-Upper · Force Upper / Push (décharge)",
+    "description": "Semaine de décharge : 2 séries par exercice au lieu de 3.\n\nRPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 2x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 2x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 2x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 2x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 2x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC",
+    "external_id": "plan-automne-2026-2026-11-27-F-Upper-D"
+  },
+  {
+    "category": "WORKOUT",
+    "start_date_local": "2026-11-28T00:00:00",
+    "type": "Ride",
+    "name": "E-1h30 · Longue Z2 1h30",
+    "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer à 65-70 %).\nPlafond 75 % en côte. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h5m 65-72%\n- 10m 50-55%",
+    "external_id": "plan-automne-2026-2026-11-28-E-1h30"
+  }
+]
