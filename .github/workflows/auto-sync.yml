@@ -50,6 +50,29 @@ jobs:
           fi
           echo "✅ All secrets configured"
 
+      - name: Refresh history.json weekly
+        # sync.py only refreshes history.json when it is >28 days old AND the run
+        # lands on Sun/Mon 00:00-00:30 UTC. Scheduled runs actually fire every ~3 h,
+        # so that window is often missed. Force a refresh once history is 7+ days old.
+        env:
+          ATHLETE_ID: ${{ secrets.ATHLETE_ID }}
+          INTERVALS_KEY: ${{ secrets.INTERVALS_KEY }}
+          WEEK_START: ${{ secrets.WEEK_START }}
+          ZONE_PREFERENCE: ${{ secrets.ZONE_PREFERENCE }}
+        run: |
+          AGE_DAYS=$(python -c "import json,datetime as d; g=json.load(open('history.json'))['generated_at']; print((d.datetime.utcnow()-d.datetime.fromisoformat(g.replace('Z',''))).days)" 2>/dev/null || echo 999)
+          echo "history.json age: ${AGE_DAYS} days"
+          if [ "$AGE_DAYS" -ge 7 ]; then
+            echo "Refreshing history.json..."
+            python sync.py \
+              --athlete-id "$ATHLETE_ID" \
+              --intervals-key "$INTERVALS_KEY" \
+              --generate-history \
+              --output history.json || echo "::warning::History refresh failed (non-critical)"
+          else
+            echo "history.json fresh enough, skipping"
+          fi
+
       - name: Run sync
         env:
           ATHLETE_ID: ${{ secrets.ATHLETE_ID }}
