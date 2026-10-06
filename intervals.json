@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:07:58.326725",
+  "generated_at": "2026-10-06T17:20:01.414891",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -833,120 +833,6 @@
           "sufficient": true
         }
       }
-    },
-    {
-      "activity_id": "i194355943",
-      "date": "2026-10-06",
-      "start_datetime": "2026-10-06T17:47:44",
-      "type": "VirtualRide",
-      "name": "ROUVY - SS-1 \u00b7 Sweet spot 3\u00d710' - 2026-10-06",
-      "interval_summary": [
-        "3x 9m57s 168w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1069,
-          "moving_secs": 1069,
-          "start_secs": 0,
-          "end_secs": 1069,
-          "avg_power": 125,
-          "max_power": 186,
-          "avg_cadence": 91.054,
-          "zone": 2,
-          "w_bal_start": 15600,
-          "w_bal_end": 15600,
-          "training_load": 12.592418
-        },
-        {
-          "type": "WORK",
-          "label": "597s@168w93rpm",
-          "duration_secs": 599,
-          "moving_secs": 599,
-          "start_secs": 1069,
-          "end_secs": 1668,
-          "avg_power": 168,
-          "max_power": 229,
-          "avg_cadence": 92.111855,
-          "zone": 3,
-          "w_bal_start": 15600,
-          "w_bal_end": 15569,
-          "training_load": 12.350191
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 301,
-          "moving_secs": 301,
-          "start_secs": 1668,
-          "end_secs": 1969,
-          "avg_power": 102,
-          "max_power": 165,
-          "avg_cadence": 89.312294,
-          "zone": 1,
-          "w_bal_start": 15569,
-          "w_bal_end": 15594,
-          "training_load": 2.6124487
-        },
-        {
-          "type": "WORK",
-          "label": "597s@168w93rpm",
-          "duration_secs": 597,
-          "moving_secs": 597,
-          "start_secs": 1969,
-          "end_secs": 2566,
-          "avg_power": 168,
-          "max_power": 197,
-          "avg_cadence": 92.63819,
-          "zone": 3,
-          "w_bal_start": 15594,
-          "w_bal_end": 15596,
-          "training_load": 12.308954
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 302,
-          "moving_secs": 302,
-          "start_secs": 2566,
-          "end_secs": 2868,
-          "avg_power": 102,
-          "max_power": 175,
-          "avg_cadence": 90.14239,
-          "zone": 1,
-          "w_bal_start": 15596,
-          "w_bal_end": 15599,
-          "training_load": 2.6211278
-        },
-        {
-          "type": "WORK",
-          "label": "597s@168w93rpm",
-          "duration_secs": 596,
-          "moving_secs": 596,
-          "start_secs": 2868,
-          "end_secs": 3464,
-          "avg_power": 168,
-          "max_power": 199,
-          "avg_cadence": 94.506714,
-          "zone": 3,
-          "w_bal_start": 15599,
-          "w_bal_end": 15595,
-          "training_load": 12.142483
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 903,
-          "moving_secs": 903,
-          "start_secs": 3464,
-          "end_secs": 4367,
-          "avg_power": 96,
-          "max_power": 245,
-          "avg_cadence": 90.32447,
-          "zone": 1,
-          "w_bal_start": 15595,
-          "w_bal_end": 15599,
-          "training_load": 6.5965376
-        }
-      ],
-      "zone_basis": "power"
     }
   ],
   "fetch_state": {
@@ -1024,25 +910,6 @@
         "last_attempt": "2026-10-06T17:07:58.326725",
         "status": "ok",
         "reason": "ok"
-      }
-    },
-    "i194355943": {
-      "date": "2026-10-06",
-      "intervals": {
-        "attempts": 1,
-        "first_seen": "2026-10-06T17:07:58.326725",
-        "last_attempt": "2026-10-06T17:07:58.326725",
-        "status": "ok",
-        "reason": "ok",
-        "source_icu_sync_date": "2026-10-06T17:01:21.306+00:00"
-      },
-      "streams": {
-        "attempts": 1,
-        "first_seen": "2026-10-06T17:07:58.326725",
-        "last_attempt": "2026-10-06T17:07:58.326725",
-        "status": "pending",
-        "reason": "no_data",
-        "next_retry_at": "2026-10-06T17:12:58.326725"
       }
     }
   }
