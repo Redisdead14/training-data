@@ -7,8 +7,12 @@ on:
         description: "Plan file to send"
         required: true
         default: "plan-automne-2026.json"
+      prune:
+        description: "Retirer du calendrier les séances du plan qui n'y figurent plus (aujourd'hui et après)"
+        type: boolean
+        default: false
       dry_run:
-        description: "Simulation only (send nothing)"
+        description: "Simulation only (send nothing, delete nothing)"
         type: boolean
         default: false
 
@@ -35,5 +39,6 @@ jobs:
           ATHLETE_ID: ${{ secrets.ATHLETE_ID }}
           INTERVALS_KEY: ${{ secrets.INTERVALS_KEY }}
           PLAN_FILE: ${{ inputs.plan_file }}
+          PRUNE: ${{ inputs.prune }}
           DRY_RUN: ${{ inputs.dry_run }}
         run: python push_plan.py
