@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:21:57.636532",
+  "generated_at": "2026-10-08T14:45:16.293679",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -31,9 +31,9 @@
           "min_hr": 99,
           "avg_cadence": 87.723976,
           "zone": 2,
-          "w_bal_start": 15600,
-          "w_bal_end": 14718,
-          "training_load": 29.872967
+          "w_bal_start": 16800,
+          "w_bal_end": 16526,
+          "training_load": 25.757812
         },
         {
           "type": "WORK",
@@ -49,9 +49,9 @@
           "min_hr": 141,
           "avg_cadence": 88.96429,
           "zone": 2,
-          "w_bal_start": 14680,
-          "w_bal_end": 11285,
-          "training_load": 2.3563445
+          "w_bal_start": 16503,
+          "w_bal_end": 13921,
+          "training_load": 2.0317461
         },
         {
           "type": "RECOVERY",
@@ -66,9 +66,9 @@
           "min_hr": 120,
           "avg_cadence": 78.87069,
           "zone": 2,
-          "w_bal_start": 11270,
-          "w_bal_end": 13893,
-          "training_load": 4.2308774
+          "w_bal_start": 13921,
+          "w_bal_end": 15761,
+          "training_load": 3.6480525
         },
         {
           "type": "WORK",
@@ -84,9 +84,9 @@
           "min_hr": 122,
           "avg_cadence": 93.32,
           "zone": 1,
-          "w_bal_start": 13712,
-          "w_bal_end": 13163,
-          "training_load": 0.48522535
+          "w_bal_start": 15595,
+          "w_bal_end": 15265,
+          "training_load": 0.4183831
         },
         {
           "type": "RECOVERY",
@@ -101,9 +101,9 @@
           "min_hr": 124,
           "avg_cadence": 78.074326,
           "zone": 2,
-          "w_bal_start": 13164,
-          "w_bal_end": 13668,
-          "training_load": 6.32284
+          "w_bal_start": 15267,
+          "w_bal_end": 15677,
+          "training_load": 5.4518366
         },
         {
           "type": "WORK",
@@ -119,9 +119,9 @@
           "min_hr": 126,
           "avg_cadence": 100.64286,
           "zone": 1,
-          "w_bal_start": 13641,
-          "w_bal_end": 12650,
-          "training_load": 0.5704522
+          "w_bal_start": 15665,
+          "w_bal_end": 15028,
+          "training_load": 0.49186948
         },
         {
           "type": "RECOVERY",
@@ -136,9 +136,9 @@
           "min_hr": 112,
           "avg_cadence": 77.57334,
           "zone": 2,
-          "w_bal_start": 12644,
-          "w_bal_end": 10994,
-          "training_load": 44.71837
+          "w_bal_start": 15029,
+          "w_bal_end": 13951,
+          "training_load": 38.558186
         },
         {
           "type": "WORK",
@@ -154,9 +154,9 @@
           "min_hr": 137,
           "avg_cadence": 92.78689,
           "zone": 2,
-          "w_bal_start": 10961,
-          "w_bal_end": 8012,
-          "training_load": 2.377837
+          "w_bal_start": 13933,
+          "w_bal_end": 11882,
+          "training_load": 2.0502777
         },
         {
           "type": "RECOVERY",
@@ -171,9 +171,9 @@
           "min_hr": 124,
           "avg_cadence": 87.11649,
           "zone": 2,
-          "w_bal_start": 7992,
-          "w_bal_end": 11979,
-          "training_load": 52.390373
+          "w_bal_start": 11877,
+          "w_bal_end": 14326,
+          "training_load": 45.173332
         },
         {
           "type": "WORK",
@@ -189,9 +189,9 @@
           "min_hr": 144,
           "avg_cadence": 102.413795,
           "zone": 2,
-          "w_bal_start": 11966,
-          "w_bal_end": 11070,
-          "training_load": 1.0440763
+          "w_bal_start": 14326,
+          "w_bal_end": 13719,
+          "training_load": 0.9002494
         },
         {
           "type": "RECOVERY",
@@ -206,9 +206,9 @@
           "min_hr": 126,
           "avg_cadence": 62.708984,
           "zone": 2,
-          "w_bal_start": 11050,
-          "w_bal_end": 13135,
-          "training_load": 9.2581
+          "w_bal_start": 13714,
+          "w_bal_end": 15093,
+          "training_load": 7.9827495
         },
         {
           "type": "WORK",
@@ -224,9 +224,9 @@
           "min_hr": 128,
           "avg_cadence": 90.2,
           "zone": 2,
-          "w_bal_start": 12912,
-          "w_bal_end": 10663,
-          "training_load": 0.39776462
+          "w_bal_start": 14885,
+          "w_bal_end": 12921,
+          "training_load": 0.34297052
         },
         {
           "type": "RECOVERY",
@@ -241,9 +241,9 @@
           "min_hr": 130,
           "avg_cadence": 88.3998,
           "zone": 2,
-          "w_bal_start": 10585,
-          "w_bal_end": 11423,
-          "training_load": 23.88449
+          "w_bal_start": 12858,
+          "w_bal_end": 14266,
+          "training_load": 20.59428
         },
         {
           "type": "WORK",
@@ -259,9 +259,9 @@
           "min_hr": 142,
           "avg_cadence": 98.19231,
           "zone": 2,
-          "w_bal_start": 11417,
-          "w_bal_end": 10342,
-          "training_load": 0.7826971
+          "w_bal_start": 14267,
+          "w_bal_end": 13506,
+          "training_load": 0.6748766
         },
         {
           "type": "RECOVERY",
@@ -276,9 +276,9 @@
           "min_hr": 124,
           "avg_cadence": 79.05809,
           "zone": 2,
-          "w_bal_start": 10318,
-          "w_bal_end": 13744,
-          "training_load": 38.209156
+          "w_bal_start": 13497,
+          "w_bal_end": 15681,
+          "training_load": 32.94565
         }
       ],
       "zone_basis": "power",
@@ -385,9 +385,9 @@
           "min_hr": 88,
           "avg_cadence": 84.25226,
           "zone": 1,
-          "w_bal_start": 15600,
-          "w_bal_end": 14313,
-          "training_load": 65.74147
+          "w_bal_start": 16800,
+          "w_bal_end": 16013,
+          "training_load": 56.68525
         }
       ],
       "zone_basis": "power",
@@ -1017,12 +1017,12 @@
       "date": "2026-09-26",
       "paired_planned": true,
       "intervals": {
-        "attempts": 2,
+        "attempts": 3,
         "first_seen": "2026-09-26T10:28:10.358632",
-        "last_attempt": "2026-10-08T14:21:57.636532",
+        "last_attempt": "2026-10-08T14:45:16.293679",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-10-08T14:20:44.847+00:00"
+        "source_icu_sync_date": "2026-10-08T14:43:17.203+00:00"
       },
       "streams": {
         "attempts": 1,
@@ -1036,12 +1036,12 @@
       "date": "2026-09-30",
       "paired_planned": true,
       "intervals": {
-        "attempts": 2,
+        "attempts": 3,
         "first_seen": "2026-09-30T15:44:20.385871",
-        "last_attempt": "2026-10-08T14:21:57.636532",
+        "last_attempt": "2026-10-08T14:45:16.293679",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-10-08T14:20:45.009+00:00"
+        "source_icu_sync_date": "2026-10-08T14:43:17.402+00:00"
       },
       "streams": {
         "attempts": 1,
