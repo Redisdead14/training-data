@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T14:10:32.912321",
+  "generated_at": "2026-10-08T14:21:57.636532",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -1017,12 +1017,12 @@
       "date": "2026-09-26",
       "paired_planned": true,
       "intervals": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-09-26T10:28:10.358632",
-        "last_attempt": "2026-09-26T10:28:10.358632",
+        "last_attempt": "2026-10-08T14:21:57.636532",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-09-26T10:17:30.352+00:00"
+        "source_icu_sync_date": "2026-10-08T14:20:44.847+00:00"
       },
       "streams": {
         "attempts": 1,
@@ -1036,12 +1036,12 @@
       "date": "2026-09-30",
       "paired_planned": true,
       "intervals": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-09-30T15:44:20.385871",
-        "last_attempt": "2026-09-30T15:44:20.385871",
+        "last_attempt": "2026-10-08T14:21:57.636532",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-09-30T15:41:02.210+00:00"
+        "source_icu_sync_date": "2026-10-08T14:20:45.009+00:00"
       },
       "streams": {
         "attempts": 1,
@@ -1055,12 +1055,12 @@
       "date": "2026-10-06",
       "paired_planned": true,
       "intervals": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-10-06T17:07:58.326725",
-        "last_attempt": "2026-10-06T17:07:58.326725",
+        "last_attempt": "2026-10-08T14:21:57.636532",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-10-06T17:01:18.291+00:00"
+        "source_icu_sync_date": "2026-10-08T14:20:45.177+00:00"
       },
       "streams": {
         "attempts": 1,
@@ -1074,12 +1074,12 @@
       "date": "2026-10-08",
       "paired_planned": true,
       "intervals": {
-        "attempts": 1,
+        "attempts": 2,
         "first_seen": "2026-10-08T14:10:32.912321",
-        "last_attempt": "2026-10-08T14:10:32.912321",
+        "last_attempt": "2026-10-08T14:21:57.636532",
         "status": "ok",
         "reason": "ok",
-        "source_icu_sync_date": "2026-10-08T14:05:32.824+00:00"
+        "source_icu_sync_date": "2026-10-08T14:20:45.304+00:00"
       },
       "streams": {
         "attempts": 1,
