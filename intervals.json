@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T14:46:18.571305",
+  "generated_at": "2026-10-10T15:52:55.429718",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -1010,6 +1010,152 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i195826563",
+      "date": "2026-10-10",
+      "start_datetime": "2026-10-10T15:35:55",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - E-2h00 \u00b7 Longue Z2 2h00",
+      "interval_summary": [
+        "1x 10s 141bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3544,
+          "moving_secs": 3544,
+          "start_secs": 0,
+          "end_secs": 3544,
+          "avg_power": 153,
+          "max_power": 625,
+          "avg_hr": 137,
+          "max_hr": 158,
+          "min_hr": 93,
+          "avg_cadence": 90.11879,
+          "zone": 2,
+          "w_bal_start": 16800,
+          "w_bal_end": 14952,
+          "training_load": 57.14689
+        },
+        {
+          "type": "WORK",
+          "label": "10s@328w85rpm",
+          "duration_secs": 10,
+          "moving_secs": 10,
+          "start_secs": 3544,
+          "end_secs": 3554,
+          "avg_power": 328,
+          "max_power": 497,
+          "avg_hr": 141,
+          "max_hr": 143,
+          "min_hr": 140,
+          "avg_cadence": 84.9,
+          "zone": 2,
+          "w_bal_start": 14865,
+          "w_bal_end": 13771,
+          "training_load": 0.20408164
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3680,
+          "moving_secs": 3680,
+          "start_secs": 3554,
+          "end_secs": 7234,
+          "avg_power": 138,
+          "max_power": 608,
+          "avg_hr": 135,
+          "max_hr": 155,
+          "min_hr": 112,
+          "avg_cadence": 84.31358,
+          "zone": 2,
+          "w_bal_start": 13681,
+          "w_bal_end": 16568,
+          "training_load": 51.461124
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 0.972,
+        "p25": 0.865,
+        "p50": 0.966,
+        "p75": 1.079,
+        "tiz_easy": {
+          "secs": 2970,
+          "pct": 41.8,
+          "avg_hr": 135,
+          "avg_watts": 148
+        },
+        "tiz_endurance": {
+          "secs": 3626,
+          "pct": 51.0,
+          "avg_hr": 139,
+          "avg_watts": 146
+        },
+        "tiz_tempo": {
+          "secs": 506,
+          "pct": 7.1,
+          "avg_hr": 140,
+          "avg_watts": 143
+        },
+        "tiz_supra": {
+          "secs": 1,
+          "pct": 0.0,
+          "avg_hr": 129,
+          "avg_watts": 140
+        },
+        "drift": {
+          "first_third_avg": 1.012,
+          "last_third_avg": 1.003,
+          "delta": -0.009,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 1609,
+          "contiguous_secs": 78,
+          "n_qualifying_segments": 4,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 135,
+          "avg_watts": 147
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 790,
+          "contiguous_secs": 80,
+          "n_qualifying_segments": 3,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 139,
+          "avg_watts": 141
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 0,
+          "contiguous_secs": 0,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_samples_in_band",
+          "estimate_eligible": false,
+          "estimate_reason": "no_samples_in_band",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "quality": {
+          "valid_secs": 7103,
+          "total_secs": 7234,
+          "valid_pct": 98.2,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.21,
+          "sufficient": true
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -1085,6 +1231,25 @@
         "attempts": 1,
         "first_seen": "2026-10-08T14:10:32.912321",
         "last_attempt": "2026-10-08T14:10:32.912321",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i195826563": {
+      "date": "2026-10-10",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-10-10T15:52:55.429718",
+        "last_attempt": "2026-10-10T15:52:55.429718",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-10-10T15:37:24.548+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-10-10T15:52:55.429718",
+        "last_attempt": "2026-10-10T15:52:55.429718",
         "status": "ok",
         "reason": "ok"
       }
