@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T11:26:43.728018",
+  "generated_at": "2026-10-13T15:06:20.340501",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -798,6 +798,171 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i196848348",
+      "date": "2026-10-13",
+      "start_datetime": "2026-10-13T16:17:42",
+      "type": "VirtualRide",
+      "name": "SS-2 \u00b7 Sweet spot 3\u00d712'",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2127,
+          "moving_secs": 2127,
+          "start_secs": 0,
+          "end_secs": 2127,
+          "avg_power": 22,
+          "max_power": 175,
+          "avg_hr": 136,
+          "max_hr": 159,
+          "min_hr": 90,
+          "avg_cadence": 93.227554,
+          "zone": 2,
+          "w_bal_start": 15600,
+          "w_bal_end": 15600,
+          "training_load": 12.867037
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 0.81,
+        "p25": 0.714,
+        "p50": 0.825,
+        "p75": 0.922,
+        "tiz_easy": {
+          "secs": 177,
+          "pct": 8.8,
+          "avg_hr": 126,
+          "avg_watts": 0
+        },
+        "tiz_endurance": {
+          "secs": 1105,
+          "pct": 55.1,
+          "avg_hr": 135,
+          "avg_watts": 0
+        },
+        "tiz_tempo": {
+          "secs": 615,
+          "pct": 30.7,
+          "avg_hr": 147,
+          "avg_watts": 77
+        },
+        "tiz_supra": {
+          "secs": 109,
+          "pct": 5.4,
+          "avg_hr": 154,
+          "avg_watts": 0
+        },
+        "drift": {
+          "first_third_avg": 0.914,
+          "last_third_avg": 0.641,
+          "delta": -0.273,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 302,
+          "contiguous_secs": 47,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_contiguous_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "no_contiguous_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 569,
+          "contiguous_secs": 341,
+          "n_qualifying_segments": 1,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 143,
+          "avg_watts": 137
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 151,
+          "contiguous_secs": 82,
+          "n_qualifying_segments": 1,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_positive_power_mean",
+          "avg_hr": 158,
+          "avg_watts": 0
+        },
+        "quality": {
+          "valid_secs": 2006,
+          "total_secs": 2127,
+          "valid_pct": 94.3,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.13,
+          "sufficient": true
+        }
+      }
+    },
+    {
+      "activity_id": "i196851139",
+      "date": "2026-10-13",
+      "start_datetime": "2026-10-13T16:17:28",
+      "type": "VirtualRide",
+      "name": "ROUVY - SS-2 \u00b7 Sweet spot 3\u00d712' - 2026-10-13",
+      "interval_summary": [
+        "1x 11m53s 174w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 966,
+          "moving_secs": 966,
+          "start_secs": 0,
+          "end_secs": 966,
+          "avg_power": 130,
+          "max_power": 197,
+          "avg_cadence": 91.421326,
+          "zone": 2,
+          "w_bal_start": 15600,
+          "w_bal_end": 15598,
+          "training_load": 13.802615
+        },
+        {
+          "type": "WORK",
+          "label": "713s@174w95rpm",
+          "duration_secs": 713,
+          "moving_secs": 713,
+          "start_secs": 966,
+          "end_secs": 1679,
+          "avg_power": 174,
+          "max_power": 217,
+          "avg_cadence": 94.73071,
+          "zone": 3,
+          "w_bal_start": 15598,
+          "w_bal_end": 15574,
+          "training_load": 15.769442
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 567,
+          "moving_secs": 567,
+          "start_secs": 1679,
+          "end_secs": 2246,
+          "avg_power": 127,
+          "max_power": 214,
+          "avg_cadence": 92.05733,
+          "zone": 2,
+          "w_bal_start": 15574,
+          "w_bal_end": 15597,
+          "training_load": 6.686537
+        }
+      ],
+      "zone_basis": "power"
     }
   ],
   "fetch_state": {
@@ -875,6 +1040,43 @@
         "last_attempt": "2026-10-10T15:52:55.429718",
         "status": "ok",
         "reason": "ok"
+      }
+    },
+    "i196848348": {
+      "date": "2026-10-13",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-10-13T15:06:20.340501",
+        "last_attempt": "2026-10-13T15:06:20.340501",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-10-13T14:54:40.888+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-10-13T15:06:20.340501",
+        "last_attempt": "2026-10-13T15:06:20.340501",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i196851139": {
+      "date": "2026-10-13",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-10-13T15:06:20.340501",
+        "last_attempt": "2026-10-13T15:06:20.340501",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-10-13T15:05:11.270+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-10-13T15:06:20.340501",
+        "last_attempt": "2026-10-13T15:06:20.340501",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-10-13T15:11:20.340501"
       }
     }
   }
