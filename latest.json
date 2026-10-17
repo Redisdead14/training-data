@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-17T07:55:47.751531",
+    "last_updated": "2026-10-17T08:34:37.982960",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -267,7 +267,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 193,
+      "steps": 613,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -686,7 +686,7 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.71,
+          "planned_tss_delta": 1.94,
           "hard_sessions_planned": 1,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 1,
@@ -726,7 +726,7 @@
     "p_max": 798,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-17T07:55:47.750476",
+    "calculation_timestamp": "2026-10-17T08:34:37.981929",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -2057,7 +2057,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 193,
+      "steps": 613,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -2072,15 +2072,15 @@
     {
       "id": 141234111,
       "date": "2026-10-17",
-      "name": "E-2h15 \u00b7 Longue Z2 2h15",
+      "name": "E-HT \u00b7 Z2 home trainer 1h30 (all\u00e9g\u00e9)",
       "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 100,
-      "duration_hours": 2.25,
-      "duration_formatted": "2h15m",
+      "sport_type": "VirtualRide",
+      "planned_tss": 60,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer \u00e0 65-70 %).\nPlafond 75 % en c\u00f4te. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h50m 65-72%\n- 10m 50-55%"
+      "description": "HT all\u00e9g\u00e9 (HRV 29, FC repos 62). ERG, watts D500 (FTP indoor 195).\nSi FC > 140 \u00e0 watts constants avant 60 min : retour au calme, arr\u00eat ~1h15.\nVentilateur \u00e0 fond. 1 bidon boisson maison (45 g). D500 en ANT+ sur l'Edge (puissance + FC dans le m\u00eame fichier).\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2 continu\n- 70m 64-67% 85-95rpm\n\nRetour au calme\n- 10m 50%"
     },
     {
       "id": 141234112,
