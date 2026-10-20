@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-20T15:17:25.135391",
+    "last_updated": "2026-10-20T18:39:07.753737",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -687,7 +687,7 @@
     },
     "phase_detection": {
       "phase": "Base",
-      "confidence": "medium",
+      "confidence": "high",
       "reason_codes": [],
       "basis": {
         "stream_1": {
@@ -697,10 +697,10 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.77,
-          "hard_sessions_planned": 5,
+          "planned_tss_delta": 2.33,
+          "hard_sessions_planned": 1,
           "current_week_hard_days_completed": 0,
-          "current_week_hard_days_total": 5,
+          "current_week_hard_days_total": 1,
           "race_proximity": null,
           "next_week_load": 0.94,
           "plan_coverage_current_week": 2.0,
@@ -737,7 +737,7 @@
     "p_max": 795,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 46.0,
-    "calculation_timestamp": "2026-10-20T15:17:25.134346",
+    "calculation_timestamp": "2026-10-20T18:39:07.753021",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -2164,67 +2164,67 @@
     {
       "id": 141234116,
       "date": "2026-10-22",
-      "name": "V-3 \u00b7 VO2max 5\u00d74'",
+      "name": "REPOS \u00b7 virus (V-3 annul\u00e9e)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
       "planned_tss": 77,
       "duration_hours": 1.12,
       "duration_formatted": "1h7m",
-      "workout_summary": "10m @131W | 2\u00d730s @252W / 1m30s rec | 3m @126W | 5\u00d74m @226W / 4m rec | 10m @105W",
+      "workout_summary": null,
       "has_terrain": false,
-      "description": "\u00c9chauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nVO2max 5x\n- 4m 106-110% 95-100rpm\n- 4m 50%\n\nRetour au calme\n- 10m 50%"
+      "description": "Repos complet : rhume en cours (nez qui coule, fatigue).\nMarche tranquille ou mobilit\u00e9 possibles. Aucune intensit\u00e9 tant qu'il y a des sympt\u00f4mes."
     },
     {
       "id": 141234117,
       "date": "2026-10-23",
-      "name": "F-Upper \u00b7 Force Upper / Push",
+      "name": "Z1-Z2 r\u00e9cup 45' (si sympt\u00f4mes OK)",
       "type": "WORKOUT",
-      "sport_type": "WeightTraining",
-      "planned_tss": null,
-      "duration_hours": 0.9,
-      "duration_formatted": "53m45s",
-      "workout_summary": "2 \u00d7 30s | 2 \u00d7 45s | 2 \u00d7 30s | 45s | 4 \u00d7 3\u00d745s / 2m rec | 2\u00d745s / 1m rec | 5m @50W",
+      "sport_type": "VirtualRide",
+      "planned_tss": 25,
+      "duration_hours": 0.75,
+      "duration_formatted": "45m",
+      "workout_summary": null,
       "has_terrain": false,
-      "description": "RPE cible 5-6/10. RIR cible 3-4 sur chaque serie.\nS'arreter au nombre de repetitions cible des qu'il reste 3 en reserve,\nmeme s'il reste du temps au chrono. Ne jamais aller a l'echec.\n\nEchauffement dynamique 5 min - aucun etirement statique :\n- 30s Chat-vache\n- 30s Cercles de hanche\n- 45s Fentes marchees\n- 45s Squats a vide\n- 30s Cercles de bras\n- 30s Rotations du buste\n- 45s Montees de genoux\n\nBloc Principal : Pompes inclinees (mains sur support) 3x\n- 45s 3x [ou 10-12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Single-arm DB row (14kg) 3x\n- 45s 3x [ou 10 reps/bras]\n- 2m Repetition de repos\n\nBloc Principal : Overhead press (7kg) 3x\n- 45s 3x [ou 10 reps]\n- 2m Repetition de repos\n\nBloc Principal : Dips negatives chaise romaine 3x\n- 5 descentes controlees de 3-5s, remontee assistee pieds\n- 2m Repetition de repos\n\nBloc Principal : Bicep curls (10kg) 3x\n- 45s 3x [ou 12 reps]\n- 2m Repetition de repos\n\nBloc Principal : Plank hold 2x\n- 30-40s 2x [hold isometrique]\n- 1m Repetition de repos\n\nBloc Principal : Tricep dips (chaise romaine) 2x\n- 45s 2x [ou 8 reps]\n- 1m Repetition de repos\n\nRetour au calme\n- 5m 50% FC"
+      "description": "Seulement si plus que le nez qui coule, sans fatigue ni courbatures. Sinon repos.\nERG, watts D500 (FTP indoor 195). Profil Edge \u00ab Home trainer \u00bb (D500 + ceinture).\nArr\u00eat imm\u00e9diat si fi\u00e8vre, courbatures, douleur thoracique, palpitations.\n\n\u00c9chauffement\n- 5m ramp 50-56%\n\nZ1-Z2\n- 35m 56-62% 85-95rpm\n\nRetour au calme\n- 5m 50%"
     },
     {
       "id": 141234118,
       "date": "2026-10-24",
-      "name": "E-2h30 \u00b7 Longue Z2 2h30",
+      "name": "Z2 60-80' (si 24 h sans sympt\u00f4mes)",
       "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 111,
-      "duration_hours": 2.5,
-      "duration_formatted": "2h30m",
+      "sport_type": "VirtualRide",
+      "planned_tss": 51,
+      "duration_hours": 1.33,
+      "duration_formatted": "1h20m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer \u00e0 65-70 %).\nPlafond 75 % en c\u00f4te. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 2h5m 65-72%\n- 10m 50-55%"
+      "description": "Seulement si aucun sympt\u00f4me depuis 24 h. Sinon repos ou 45' Z1.\nHome trainer (ERG D500) ou dehors : 125-140 W sur le 4iiii, NP < 145 W, aucune relance.\nFC plafond 140. 1 bidon de boisson maison. Renfo en pause cette semaine.\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2\n- 60m 62-67% 85-95rpm\n\nRetour au calme\n- 10m 50%"
     },
     {
       "id": 141234119,
       "date": "2026-10-25",
-      "name": "E-75 \u00b7 Z2 HT 75' + v\u00e9locit\u00e9",
+      "name": "Z2 60' facile (si 24 h sans sympt\u00f4mes)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 54,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": "10m @120W | 15m @142W | 3\u00d75m @142W / 5m rec | 15m @142W | 5m @105W",
+      "planned_tss": 39,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h",
+      "workout_summary": null,
       "has_terrain": false,
-      "description": "Dimanche : au moins 3 h d'\u00e9cart avec F-Lower.\n\n\u00c9chauffement\n- 10m ramp 50-65%\n\nEndurance\n- 15m 65-70% 85-90rpm\n\nV\u00e9locit\u00e9 3x\n- 5m 65-70% 100rpm\n- 5m 65-70% 85-90rpm\n\n- 15m 65-70% 85-90rpm\n\nRetour au calme\n- 5m 50%"
+      "description": "Seulement si aucun sympt\u00f4me depuis 24 h. Sinon repos.\nERG D500. FC plafond 140. Pas de v\u00e9locit\u00e9 cette semaine.\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2\n- 45m 62-67% 85-95rpm\n\nRetour au calme\n- 5m 50%"
     },
     {
       "id": 141995511,
       "date": "2026-10-25",
-      "name": "F-Lower \u00b7 Jambes lourdes + sauts",
+      "name": "Renfo jambes en pause (virus)",
       "type": "WORKOUT",
       "sport_type": "WeightTraining",
       "planned_tss": null,
       "duration_hours": 0.66,
       "duration_formatted": "39m39s",
-      "workout_summary": "5m | 3\u00d725s / 1m30s rec | 3\u00d71m30s / 2m30s rec | 3\u00d71m38s / 2m rec | 3\u00d71m / 1m rec",
+      "workout_summary": null,
       "has_terrain": false,
-      "description": "RPE cible 7/10. 6-8 reps lourdes \u00e0 RIR 2-3 : jamais \u00e0 l'\u00e9chec.\nCharge : la plus lourde permettant 8 reps propres. Quand les 3 s\u00e9ries passent \u00e0 RIR 3, augmenter la charge.\nDimanche, de pr\u00e9f\u00e9rence le matin. Z2 du jour au moins 3 h apr\u00e8s (ou avant). 48 h avant la s\u00e9ance cl\u00e9 du mardi.\nCharge \u00e0 saisir en S-RPE (RPE x minutes).\n\n\u00c9chauffement\n- 5m Squats \u00e0 vide, fentes march\u00e9es, cercles de hanche\n\nSauts 3x\n- 20s 5 squat jumps, r\u00e9ception amortie\n- 90s Repos\n\nSplit squat bulgare lourd 3x\n- 90s 6-8 reps par jambe\n- 150s Repos\n\nSoulev\u00e9 de terre roumain une jambe 3x\n- 90s 8 reps par jambe\n- 2m Repos\n\nMollets une jambe sur marche 3x\n- 1m 10-12 reps par jambe\n- 1m Repos"
+      "description": "F-Lower annul\u00e9e cette semaine : r\u00e9cup\u00e9ration du rhume. Reprise la semaine prochaine si les jambes sont revenues."
     },
     {
       "id": 141234120,
@@ -2614,12 +2614,12 @@
     }
   ],
   "workout_summary_stats": {
-    "attempted": 37,
-    "success": 23,
-    "patternA": 23,
+    "attempted": 35,
+    "success": 19,
+    "patternA": 19,
     "patternB": 0,
-    "bail_no_workout_doc": 0,
-    "bail_no_match": 14
+    "bail_no_workout_doc": 2,
+    "bail_no_match": 16
   },
   "weekly_summary": {
     "total_training_hours": 1.8,
