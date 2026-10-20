@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T14:27:17.265906",
+  "generated_at": "2026-10-20T15:17:24.627759",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -1031,6 +1031,188 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i199563411",
+      "date": "2026-10-20",
+      "start_datetime": "2026-10-20T16:31:31",
+      "type": "VirtualRide",
+      "name": "SS-2 \u00b7 Sweet spot 3\u00d712'",
+      "interval_summary": [
+        "1x 11m53s 153bpm",
+        "1x 3m49s 155bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 968,
+          "moving_secs": 968,
+          "start_secs": 0,
+          "end_secs": 968,
+          "avg_power": 130,
+          "max_power": 192,
+          "avg_hr": 120,
+          "max_hr": 144,
+          "min_hr": 78,
+          "avg_cadence": 90.93698,
+          "zone": 1,
+          "w_bal_start": 16800,
+          "w_bal_end": 16800,
+          "training_load": 11.780504
+        },
+        {
+          "type": "WORK",
+          "label": "713s@168w93rpm",
+          "duration_secs": 713,
+          "moving_secs": 713,
+          "start_secs": 968,
+          "end_secs": 1681,
+          "avg_power": 168,
+          "max_power": 191,
+          "avg_hr": 153,
+          "max_hr": 162,
+          "min_hr": 133,
+          "avg_cadence": 92.76437,
+          "zone": 3,
+          "w_bal_start": 16800,
+          "w_bal_end": 16800,
+          "training_load": 12.675555
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 312,
+          "moving_secs": 312,
+          "start_secs": 1681,
+          "end_secs": 1993,
+          "avg_power": 104,
+          "max_power": 217,
+          "avg_hr": 141,
+          "max_hr": 160,
+          "min_hr": 134,
+          "avg_cadence": 85.948715,
+          "zone": 2,
+          "w_bal_start": 16800,
+          "w_bal_end": 16798,
+          "training_load": 2.3550642
+        },
+        {
+          "type": "WORK",
+          "label": "229s@168w96rpm",
+          "duration_secs": 229,
+          "moving_secs": 229,
+          "start_secs": 1993,
+          "end_secs": 2222,
+          "avg_power": 168,
+          "max_power": 171,
+          "avg_hr": 155,
+          "max_hr": 164,
+          "min_hr": 137,
+          "avg_cadence": 95.79476,
+          "zone": 4,
+          "w_bal_start": 16798,
+          "w_bal_end": 16799,
+          "training_load": 3.974757
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 15,
+          "moving_secs": 15,
+          "start_secs": 2222,
+          "end_secs": 2237,
+          "avg_power": 34,
+          "max_power": 168,
+          "avg_hr": 159,
+          "max_hr": 163,
+          "min_hr": 154,
+          "avg_cadence": 63.8,
+          "zone": 4,
+          "w_bal_start": 16799,
+          "w_bal_end": 16799,
+          "training_load": 0.09796296
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 0.869,
+        "p25": 0.724,
+        "p50": 0.874,
+        "p75": 1.047,
+        "tiz_easy": {
+          "secs": 757,
+          "pct": 35.5,
+          "avg_hr": 125,
+          "avg_watts": 141
+        },
+        "tiz_endurance": {
+          "secs": 766,
+          "pct": 35.9,
+          "avg_hr": 140,
+          "avg_watts": 135
+        },
+        "tiz_tempo": {
+          "secs": 474,
+          "pct": 22.2,
+          "avg_hr": 156,
+          "avg_watts": 164
+        },
+        "tiz_supra": {
+          "secs": 134,
+          "pct": 6.3,
+          "avg_hr": 159,
+          "avg_watts": 154
+        },
+        "drift": {
+          "first_third_avg": 1.045,
+          "last_third_avg": 0.724,
+          "delta": -0.321,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 388,
+          "contiguous_secs": 45,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_contiguous_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "no_contiguous_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 283,
+          "contiguous_secs": 63,
+          "n_qualifying_segments": 1,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 158,
+          "avg_watts": 147
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 168,
+          "contiguous_secs": 53,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_contiguous_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "no_contiguous_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "quality": {
+          "valid_secs": 2131,
+          "total_secs": 2237,
+          "valid_pct": 95.3,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.33,
+          "sufficient": true
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -1142,6 +1324,24 @@
         "attempts": 1,
         "first_seen": "2026-10-17T15:43:41.858317",
         "last_attempt": "2026-10-17T15:43:41.858317",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i199563411": {
+      "date": "2026-10-20",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-10-20T15:17:24.627759",
+        "last_attempt": "2026-10-20T15:17:24.627759",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-10-20T15:14:27.616+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-10-20T15:17:24.627759",
+        "last_attempt": "2026-10-20T15:17:24.627759",
         "status": "ok",
         "reason": "ok"
       }
