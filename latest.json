@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-20T09:26:29.518966",
+    "last_updated": "2026-10-20T14:27:17.270526",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -182,7 +182,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-10-18",
-    "age_days": 1,
+    "age_days": 2,
     "total_months": 6,
     "history_confidence": "medium"
   },
@@ -277,7 +277,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 71,
+      "steps": 279,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -696,7 +696,7 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.84,
+          "planned_tss_delta": 2.77,
           "hard_sessions_planned": 5,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 5,
@@ -736,7 +736,7 @@
     "p_max": 795,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-20T09:26:29.518059",
+    "calculation_timestamp": "2026-10-20T14:27:17.269326",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -2042,7 +2042,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 71,
+      "steps": 279,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -2055,17 +2055,17 @@
   ],
   "planned_workouts": [
     {
-      "id": 141234114,
+      "id": 141234107,
       "date": "2026-10-20",
-      "name": "SS-3 \u00b7 Sweet spot 2\u00d720'",
+      "name": "SS-2 \u00b7 Sweet spot 3\u00d712'",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 83,
-      "duration_hours": 1.3,
-      "duration_formatted": "1h18m",
-      "workout_summary": "10m @131W | 3\u00d71m @203W / 1m rec | 2\u00d720m @188W / 6m rec | 10m @105W",
+      "planned_tss": 75,
+      "duration_hours": 1.28,
+      "duration_formatted": "1h17m",
+      "workout_summary": "10m @131W | 3\u00d71m @203W / 1m rec | 3\u00d712m @182W / 5m rec | 10m @105W",
       "has_terrain": false,
-      "description": "\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 2x\n- 20m 88-92% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 10m 50%"
+      "description": "\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 3x\n- 12m 87% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 10m 50%"
     },
     {
       "id": 141234116,
