@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T11:57:34.521915",
+  "generated_at": "2026-10-24T15:37:17.399479",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -675,6 +675,110 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i201144404",
+      "date": "2026-10-24",
+      "start_datetime": "2026-10-24T16:31:25",
+      "type": "VirtualRide",
+      "name": "Z2 60' \u00b7 test de reprise",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3607,
+          "moving_secs": 3607,
+          "start_secs": 0,
+          "end_secs": 3607,
+          "avg_power": 120,
+          "max_power": 167,
+          "avg_hr": 126,
+          "max_hr": 146,
+          "min_hr": 83,
+          "avg_cadence": 92.39093,
+          "zone": 1,
+          "w_bal_start": 16800,
+          "w_bal_end": 16800,
+          "training_load": 33.816193
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 0.998,
+        "p25": 0.91,
+        "p50": 1.013,
+        "p75": 1.102,
+        "tiz_easy": {
+          "secs": 1867,
+          "pct": 53.6,
+          "avg_hr": 123,
+          "avg_watts": 118
+        },
+        "tiz_endurance": {
+          "secs": 1451,
+          "pct": 41.6,
+          "avg_hr": 132,
+          "avg_watts": 123
+        },
+        "tiz_tempo": {
+          "secs": 168,
+          "pct": 4.8,
+          "avg_hr": 141,
+          "avg_watts": 128
+        },
+        "tiz_supra": null,
+        "drift": {
+          "first_third_avg": 1.087,
+          "last_third_avg": 0.917,
+          "delta": -0.17,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 826,
+          "contiguous_secs": 67,
+          "n_qualifying_segments": 3,
+          "n_eligible_segments": 3,
+          "reason": "ok",
+          "estimate_eligible": true,
+          "estimate_reason": "ok",
+          "avg_hr": 126,
+          "avg_watts": 125
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 123,
+          "contiguous_secs": 41,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_contiguous_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "no_contiguous_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 3,
+          "contiguous_secs": 3,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "insufficient_total_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "insufficient_total_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "quality": {
+          "valid_secs": 3486,
+          "total_secs": 3607,
+          "valid_pct": 96.6,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.59,
+          "sufficient": true
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -766,6 +870,25 @@
         "attempts": 1,
         "first_seen": "2026-10-20T15:17:24.627759",
         "last_attempt": "2026-10-20T15:17:24.627759",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i201144404": {
+      "date": "2026-10-24",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-10-24T15:37:17.399479",
+        "last_attempt": "2026-10-24T15:37:17.399479",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-10-24T15:32:03.872+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-10-24T15:37:17.399479",
+        "last_attempt": "2026-10-24T15:37:17.399479",
         "status": "ok",
         "reason": "ok"
       }
