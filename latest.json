@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-10-27T11:02:59.366980",
+    "last_updated": "2026-10-27T16:41:35.013151",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -182,7 +182,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-10-25",
-    "age_days": 1,
+    "age_days": 2,
     "total_months": 6,
     "history_confidence": "medium"
   },
@@ -277,7 +277,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 247,
+      "steps": 257,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -696,12 +696,12 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 1.08,
+          "planned_tss_delta": 1.31,
           "hard_sessions_planned": 2,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 2,
           "race_proximity": null,
-          "next_week_load": 2.14,
+          "next_week_load": 1.78,
           "plan_coverage_current_week": 1.33,
           "plan_coverage_next_week": 2.33
         },
@@ -736,7 +736,7 @@
     "p_max": 790,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-10-27T11:02:59.366269",
+    "calculation_timestamp": "2026-10-27T16:41:35.012063",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1916,7 +1916,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 247,
+      "steps": 257,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1931,28 +1931,28 @@
     {
       "id": 141234121,
       "date": "2026-10-27",
-      "name": "R-1 \u00b7 Rappel d\u00e9charge 2\u00d710'",
+      "name": "R-1 \u00b7 Reprise sweet spot 2\u00d710' (85 %)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 53,
+      "planned_tss": 48,
       "duration_hours": 0.9,
       "duration_formatted": "54m",
-      "workout_summary": "10m @122W | 3\u00d71m @189W / 1m rec | 2\u00d710m @175W / 5m rec | 8m @97W",
+      "workout_summary": "10m @122W | 3\u00d71m @189W / 1m rec | 2\u00d710m @165W / 5m rec | 8m @97W",
       "has_terrain": false,
-      "description": "\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 2x\n- 10m 88-92% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 8m 50%"
+      "description": "Reprise de l'intensit\u00e9 apr\u00e8s le rhume. ERG, watts D500 (FTP indoor 195) : blocs \u00e0 165 W. Profil Edge \u00ab Home trainer \u00bb. Ventilateur \u00e0 fond, bidon bu en entier.\nFC sur la derni\u00e8re minute du bloc 1 :\n- \u2264 155 : bloc 2 \u00e0 165 W\n- 156-160 : bloc 2 \u00e0 155 W (80 %)\n- > 160 ou jambes vides : arr\u00eater apr\u00e8s le bloc 1, finir en Z1\n\n\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 2x\n- 10m 85% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 8m 50%"
     },
     {
       "id": 141234123,
       "date": "2026-10-29",
-      "name": "TEST \u00b7 Test rampe Zwift",
+      "name": "Z2 60' (test de rampe d\u00e9cal\u00e9 au 5/11)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 8,
-      "duration_hours": 0.67,
-      "duration_formatted": "40m",
+      "planned_tss": 40,
+      "duration_hours": 1.0,
+      "duration_formatted": "1h",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Test rampe Zwift, m\u00eame protocole que le 03/09, D500 en source.\nRepos complet la veille ou Z1 30 min maximum.\n\n- 30m freeride\n\nRetour au calme\n- 10m 50%"
+      "description": "Test de rampe report\u00e9 au jeudi 5 novembre. Aujourd'hui Z2 tranquille.\nERG D500, 125-131 W. Rep\u00e8re : FC moyenne entre 40 et 50 min (24/10 : 139). Sous 135 = r\u00e9cup\u00e9ration confirm\u00e9e.\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2\n- 45m 64-67% 85-95rpm\n\nRetour au calme\n- 5m 50%"
     },
     {
       "id": 141234124,
@@ -2009,14 +2009,15 @@
     {
       "id": 141234129,
       "date": "2026-11-05",
-      "name": "V-4 \u00b7 30\"/15\" 2 s\u00e9ries de 10",
+      "name": "TEST \u00b7 Test rampe Zwift",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 57,
-      "duration_hours": 0.92,
-      "duration_formatted": "55m",
-      "workout_summary": "10m @122W | 2\u00d730s @234W / 1m30s rec | 3m @117W | 10\u00d730s @238W / 15s rec | 3m @97W | 10\u00d730s @238W / 15s rec | 10m @122W | 10m @97W",
-      "has_terrain": false
+      "planned_tss": 8,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "Test rampe Zwift, m\u00eame protocole que le 03/09, D500 en source.\nRepos complet la veille ou Z1 30 min maximum. (Remplace V-4 30\"/15\" cette semaine.)\n- 30m freeride"
     },
     {
       "id": 141234130,
@@ -2306,11 +2307,11 @@
   ],
   "workout_summary_stats": {
     "attempted": 30,
-    "success": 18,
-    "patternA": 18,
+    "success": 17,
+    "patternA": 17,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 12
+    "bail_no_match": 13
   },
   "weekly_summary": {
     "total_training_hours": 1.0,
