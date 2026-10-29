@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:56:07.545821",
+  "generated_at": "2026-10-29T16:31:54.896666",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -468,6 +468,57 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i203245273",
+      "date": "2026-10-29",
+      "start_datetime": "2026-10-29T16:10:52",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - Z2 60' (test de rampe d\u00e9cal\u00e9 au 5/11)",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4396,
+          "moving_secs": 3760,
+          "start_secs": 0,
+          "end_secs": 4396,
+          "avg_power": 136,
+          "max_power": 491,
+          "avg_hr": 124,
+          "max_hr": 138,
+          "min_hr": 85,
+          "avg_cadence": 83.68401,
+          "zone": 1,
+          "w_bal_start": 15600,
+          "w_bal_end": 14220,
+          "training_load": 57.688583
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": null,
+        "p25": null,
+        "p50": null,
+        "p75": null,
+        "tiz_easy": null,
+        "tiz_endurance": null,
+        "tiz_tempo": null,
+        "tiz_supra": null,
+        "drift": null,
+        "easy_guard_crossing": null,
+        "lt1_crossing": null,
+        "lt2_crossing": null,
+        "quality": {
+          "valid_secs": 0,
+          "total_secs": 3766,
+          "valid_pct": 0.0,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 5.65,
+          "sufficient": false
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -523,6 +574,25 @@
         "attempts": 1,
         "first_seen": "2026-10-24T15:37:17.399479",
         "last_attempt": "2026-10-24T15:37:17.399479",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i203245273": {
+      "date": "2026-10-29",
+      "paired_planned": true,
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-10-29T16:31:54.896666",
+        "last_attempt": "2026-10-29T16:31:54.896666",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-10-29T16:25:15.282+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-10-29T16:31:54.896666",
+        "last_attempt": "2026-10-29T16:31:54.896666",
         "status": "ok",
         "reason": "ok"
       }
