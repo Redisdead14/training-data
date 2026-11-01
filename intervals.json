@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T14:54:16.161015",
+  "generated_at": "2026-11-01T16:06:03.411185",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -342,6 +342,115 @@
           "sufficient": false
         }
       }
+    },
+    {
+      "activity_id": "i204413384",
+      "date": "2026-11-01",
+      "start_datetime": "2026-11-01T15:17:10",
+      "type": "GravelRide",
+      "name": "Pont-H\u00e9bert - E-60 \u00b7 Z2 HT 60'",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3959,
+          "moving_secs": 3957,
+          "start_secs": 0,
+          "end_secs": 3959,
+          "avg_power": 165,
+          "max_power": 715,
+          "avg_hr": 142,
+          "max_hr": 160,
+          "min_hr": 109,
+          "avg_cadence": 81.40247,
+          "zone": 2,
+          "w_bal_start": 16800,
+          "w_bal_end": 13364,
+          "training_load": 77.205864
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": 0.963,
+        "p25": 0.826,
+        "p50": 0.948,
+        "p75": 1.094,
+        "tiz_easy": {
+          "secs": 1537,
+          "pct": 39.8,
+          "avg_hr": 139,
+          "avg_watts": 169
+        },
+        "tiz_endurance": {
+          "secs": 1815,
+          "pct": 47.0,
+          "avg_hr": 145,
+          "avg_watts": 168
+        },
+        "tiz_tempo": {
+          "secs": 512,
+          "pct": 13.2,
+          "avg_hr": 148,
+          "avg_watts": 159
+        },
+        "tiz_supra": {
+          "secs": 1,
+          "pct": 0.0,
+          "avg_hr": 118,
+          "avg_watts": 199
+        },
+        "drift": {
+          "first_third_avg": 1.103,
+          "last_third_avg": 0.837,
+          "delta": -0.266,
+          "interpretable": true
+        },
+        "easy_guard_crossing": {
+          "marker_dfa_a1": 1.0,
+          "secs_in_band": 661,
+          "contiguous_secs": 48,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "no_contiguous_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "no_contiguous_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "lt1_crossing": {
+          "marker_dfa_a1": 0.75,
+          "secs_in_band": 445,
+          "contiguous_secs": 63,
+          "n_qualifying_segments": 1,
+          "n_eligible_segments": 0,
+          "reason": "ok",
+          "estimate_eligible": false,
+          "estimate_reason": "non_stationary_power",
+          "avg_hr": 149,
+          "avg_watts": 166
+        },
+        "lt2_crossing": {
+          "marker_dfa_a1": 0.5,
+          "secs_in_band": 4,
+          "contiguous_secs": 4,
+          "n_qualifying_segments": 0,
+          "n_eligible_segments": 0,
+          "reason": "insufficient_total_dwell",
+          "estimate_eligible": false,
+          "estimate_reason": "insufficient_total_dwell",
+          "avg_hr": null,
+          "avg_watts": null
+        },
+        "quality": {
+          "valid_secs": 3865,
+          "total_secs": 3958,
+          "valid_pct": 97.7,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.23,
+          "sufficient": true
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -397,6 +506,24 @@
         "attempts": 1,
         "first_seen": "2026-10-29T16:31:54.896666",
         "last_attempt": "2026-10-29T16:31:54.896666",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i204413384": {
+      "date": "2026-11-01",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-11-01T16:06:03.411185",
+        "last_attempt": "2026-11-01T16:06:03.411185",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-11-01T15:24:43.264+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-11-01T16:06:03.411185",
+        "last_attempt": "2026-11-01T16:06:03.411185",
         "status": "ok",
         "reason": "ok"
       }
