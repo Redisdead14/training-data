@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-01T07:56:32.289445",
+    "last_updated": "2026-11-01T14:54:16.164839",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -158,7 +158,7 @@
     },
     "phase_context": {
       "phase": "Base",
-      "phase_week": 1,
+      "phase_week": 2,
       "amber_threshold": 2,
       "modifier_applied": "default"
     },
@@ -191,9 +191,9 @@
   },
   "history": {
     "available": true,
-    "last_generated": "2026-10-25",
-    "age_days": 6,
-    "total_months": 6,
+    "last_generated": "2026-11-01",
+    "age_days": 0,
+    "total_months": 7,
     "history_confidence": "medium"
   },
   "summary": {
@@ -287,7 +287,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 422,
+      "steps": 4344,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -699,7 +699,7 @@
       "reason_codes": [],
       "basis": {
         "stream_1": {
-          "ctl_slope": -2.85,
+          "ctl_slope": -3.3,
           "acwr_trend": "falling",
           "hard_day_pattern": 1,
           "weeks_available": 4
@@ -710,15 +710,15 @@
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 0,
           "race_proximity": null,
-          "next_week_load": 1.78,
+          "next_week_load": 1.46,
           "plan_coverage_current_week": 0.0,
           "plan_coverage_next_week": 2.33
         },
         "data_quality": "good",
         "stream_agreement": null
       },
-      "previous_phase": null,
-      "phase_duration_weeks": 1,
+      "previous_phase": "Base",
+      "phase_duration_weeks": 2,
       "dossier_declared": null,
       "dossier_agreement": null
     },
@@ -745,7 +745,7 @@
     "p_max": 786,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-01T07:56:32.288463",
+    "calculation_timestamp": "2026-11-01T14:54:16.163852",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1889,7 +1889,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 422,
+      "steps": 4344,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1917,15 +1917,15 @@
     {
       "id": 141234127,
       "date": "2026-11-03",
-      "name": "T-1 \u00b7 Seuil 3\u00d712'",
+      "name": "SS \u00b7 Reprise sweet spot 2\u00d710' (85 %)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 93,
-      "duration_hours": 1.33,
-      "duration_formatted": "1h20m",
-      "workout_summary": "10m @131W | 3\u00d71m @203W / 1m rec | 3\u00d712m @204W / 6m rec | 10m @105W",
+      "planned_tss": 49,
+      "duration_hours": 0.9,
+      "duration_formatted": "54m",
+      "workout_summary": "10m @131W | 3\u00d71m @203W / 1m rec | 2\u00d710m @178W / 5m rec | 8m @105W",
       "has_terrain": false,
-      "description": "\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSeuil 3x\n- 12m 95-100% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 10m 50%"
+      "description": "Remplace T-1 (seuil 3\u00d712') : premi\u00e8re intensit\u00e9 avant le test de rampe de jeudi.\nCondition : HRV \u2265 38 le matin. Sinon Z2 60' \u00e0 125-131 W \u00e0 la place.\nERG, watts D500 (FTP indoor 195) : blocs \u00e0 165 W. Profil Edge \u00ab Home trainer \u00bb. Ventilateur \u00e0 fond, bidon bu en entier.\nFC sur la derni\u00e8re minute du bloc 1 :\n- \u2264 155 : bloc 2 \u00e0 165 W\n- 156-160 : bloc 2 \u00e0 155 W\n- > 160 ou jambes vides : arr\u00eater apr\u00e8s le bloc 1, finir en Z1\n\n\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 2x\n- 10m 85% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 8m 50%"
     },
     {
       "id": 141234129,
