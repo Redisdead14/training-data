@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-05T16:20:26.539753",
+    "last_updated": "2026-11-05T19:00:28.297248",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -228,8 +228,8 @@
           "max_hr": 176,
           "threshold_pace": null,
           "pace_units": null,
-          "ftp": 195,
-          "ftp_indoor": 195
+          "ftp": 194,
+          "ftp_indoor": 180
         },
         "run": {
           "lthr": 165,
@@ -292,9 +292,9 @@
     "weight": {
       "weight_latest_kg": 82.6,
       "weight_latest_date": "2026-10-31",
-      "wkg_current": 2.36,
+      "wkg_current": 2.35,
       "wkg_ftp_source": "tested",
-      "ftp_setting_date": "2026-11-03",
+      "ftp_setting_date": "2026-11-05",
       "display": {
         "weight_latest": {
           "value": 82.6,
@@ -528,11 +528,11 @@
               "actual_hr": 159,
               "pct_lthr": 95.8,
               "source": "observed_outdoor",
-              "coggan_watts": 207,
-              "coggan_wpkg": 2.51,
-              "cp_model_watts": 257,
-              "cp_model_wpkg": 3.11,
-              "model_divergence_pct": -22.6
+              "coggan_watts": 206,
+              "coggan_wpkg": 2.49,
+              "cp_model_watts": 256,
+              "cp_model_wpkg": 3.1,
+              "model_divergence_pct": -22.3
             },
             "600s": {
               "actual_watts": 186,
@@ -540,11 +540,11 @@
               "actual_hr": 156,
               "pct_lthr": 94.0,
               "source": "observed_outdoor",
-              "coggan_watts": 189,
-              "coggan_wpkg": 2.29,
-              "cp_model_watts": 226,
-              "cp_model_wpkg": 2.74,
-              "model_divergence_pct": -17.7
+              "coggan_watts": 188,
+              "coggan_wpkg": 2.28,
+              "cp_model_watts": 225,
+              "cp_model_wpkg": 2.72,
+              "model_divergence_pct": -17.3
             },
             "1200s": {
               "actual_watts": 177,
@@ -552,11 +552,11 @@
               "actual_hr": 151,
               "pct_lthr": 91.0,
               "source": "observed_outdoor",
-              "coggan_watts": 181,
-              "coggan_wpkg": 2.19,
-              "cp_model_watts": 210,
-              "cp_model_wpkg": 2.54,
-              "model_divergence_pct": -15.7
+              "coggan_watts": 180,
+              "coggan_wpkg": 2.18,
+              "cp_model_watts": 209,
+              "cp_model_wpkg": 2.53,
+              "model_divergence_pct": -15.3
             },
             "1800s": {
               "actual_watts": 177,
@@ -564,11 +564,11 @@
               "actual_hr": 148,
               "pct_lthr": 89.2,
               "source": "observed_outdoor",
-              "coggan_watts": 176,
-              "coggan_wpkg": 2.13,
-              "cp_model_watts": 205,
-              "cp_model_wpkg": 2.48,
-              "model_divergence_pct": -13.7
+              "coggan_watts": 175,
+              "coggan_wpkg": 2.12,
+              "cp_model_watts": 204,
+              "cp_model_wpkg": 2.47,
+              "model_divergence_pct": -13.2
             },
             "3600s": {
               "actual_watts": 169,
@@ -576,11 +576,11 @@
               "actual_hr": 143,
               "pct_lthr": 86.1,
               "source": "observed_outdoor",
-              "coggan_watts": 168,
-              "coggan_wpkg": 2.03,
-              "cp_model_watts": 200,
-              "cp_model_wpkg": 2.42,
-              "model_divergence_pct": -15.5
+              "coggan_watts": 167,
+              "coggan_wpkg": 2.02,
+              "cp_model_watts": 199,
+              "cp_model_wpkg": 2.41,
+              "model_divergence_pct": -15.1
             },
             "5400s": {
               "actual_watts": 162,
@@ -588,11 +588,11 @@
               "actual_hr": 142,
               "pct_lthr": 85.5,
               "source": "observed_outdoor",
-              "coggan_watts": 160,
-              "coggan_wpkg": 1.94,
-              "cp_model_watts": 198,
-              "cp_model_wpkg": 2.4,
-              "model_divergence_pct": -18.2
+              "coggan_watts": 159,
+              "coggan_wpkg": 1.92,
+              "cp_model_watts": 197,
+              "cp_model_wpkg": 2.38,
+              "model_divergence_pct": -17.8
             },
             "7200s": {
               "actual_watts": 157,
@@ -600,17 +600,17 @@
               "actual_hr": 141,
               "pct_lthr": 84.9,
               "source": "observed_outdoor",
-              "coggan_watts": 152,
-              "coggan_wpkg": 1.84,
-              "cp_model_watts": 198,
-              "cp_model_wpkg": 2.4,
-              "model_divergence_pct": -20.7
+              "coggan_watts": 151,
+              "coggan_wpkg": 1.83,
+              "cp_model_watts": 197,
+              "cp_model_wpkg": 2.38,
+              "model_divergence_pct": -20.3
             }
           },
           "coverage_ratio": 1.0,
-          "ftp_used": 195,
+          "ftp_used": 194,
           "w_prime_used": 18503,
-          "ftp_staleness_days": 2,
+          "ftp_staleness_days": 0,
           "model_trust_note": "CP/W' model (P=CP+W'/t) is primary for durations \u226420min where W' contribution is meaningful. Coggan duration factors (Allen & Coggan, 3rd ed.) are the established reference for \u226560min. 30min is the crossover zone where both apply. model_divergence_pct = (actual - CP_model) / CP_model \u00d7 100. Positive divergence at short durations may indicate strong anaerobic capacity or stale W' value. Indoor MMP is typically 3-5% lower than outdoor (cooling, motivation) \u2014 source flag indicates which environment produced each anchor."
         }
       },
@@ -693,12 +693,12 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.75,
+          "planned_tss_delta": 2.31,
           "hard_sessions_planned": 2,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 2,
           "race_proximity": null,
-          "next_week_load": 3.55,
+          "next_week_load": 2.91,
           "plan_coverage_current_week": 2.5,
           "plan_coverage_next_week": 3.5
         },
@@ -716,14 +716,14 @@
     ],
     "seasonal_context": "Off-season / Transition",
     "benchmark_indoor": {
-      "current_ftp": 195,
+      "current_ftp": 180,
       "ftp_8_weeks_ago": null,
       "benchmark_index": null,
       "benchmark_percentage": null,
       "seasonal_expected": null
     },
     "benchmark_outdoor": {
-      "current_ftp": 195,
+      "current_ftp": 194,
       "ftp_8_weeks_ago": null,
       "benchmark_index": null,
       "benchmark_percentage": null,
@@ -735,7 +735,7 @@
     "p_max": 783,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 45.0,
-    "calculation_timestamp": "2026-11-05T16:20:26.538657",
+    "calculation_timestamp": "2026-11-05T19:00:28.296191",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -743,8 +743,8 @@
       "activities_28d": 11,
       "planned_workouts_7d": 5,
       "ftp_history_days": {
-        "indoor": 17,
-        "outdoor": 90
+        "indoor": 28,
+        "outdoor": 92
       }
     }
   },
@@ -2055,15 +2055,15 @@
     {
       "id": 141234131,
       "date": "2026-11-07",
-      "name": "E-2h15 \u00b7 Longue Z2 2h15",
+      "name": "E-1h45 \u00b7 Longue Z2 1h45",
       "type": "WORKOUT",
       "sport_type": "Ride",
-      "planned_tss": 100,
-      "duration_hours": 2.25,
-      "duration_formatted": "2h15m",
+      "planned_tss": 76,
+      "duration_hours": 1.75,
+      "duration_formatted": "1h45m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer \u00e0 65-70 %).\nPlafond 75 % en c\u00f4te. Sortie > 90 min : 40-60 g de glucides par heure.\n\n- 15m 55-65%\n- 1h50m 65-72%\n- 10m 50-55%"
+      "description": "Raccourcie (2h15 \u2192 1h45) : ACWR proche de 1,3 avec une CTL basse.\nDehors si sec, sinon home trainer 1h20 \u00e0 64-67 %. Dehors (4iiii, FTP 194) : 126-140 W sur le plat, plafond 150 W en bosse, NP < 140 W. Relances assises.\n40-50 g de glucides par heure.\n\n- 15m 55-65%\n- 1h20m 65-72%\n- 10m 50-55%"
     },
     {
       "id": 141234132,
@@ -2107,28 +2107,28 @@
     {
       "id": 141234135,
       "date": "2026-11-10",
-      "name": "T-2 \u00b7 Seuil 3\u00d715'",
+      "name": "SS-1b \u00b7 Sweet spot 3\u00d710' (88 %)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 105,
-      "duration_hours": 1.48,
-      "duration_formatted": "1h29m",
-      "workout_summary": "10m @122W | 3\u00d71m @189W / 1m rec | 3\u00d715m @187W / 6m rec | 10m @97W",
+      "planned_tss": 69,
+      "duration_hours": 1.18,
+      "duration_formatted": "1h11m",
+      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 3\u00d710m @170W / 5m rec | 10m @97W",
       "has_terrain": false,
-      "description": "\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSeuil 3x\n- 15m 94-98% 85-95rpm\n- 6m 55%\n\nRetour au calme\n- 10m 50%"
+      "description": "Remplace T-2 (seuil 3\u00d715') : reprise progressive avec la FTP de 180 W.\nERG D500 : blocs \u00e0 ~158 W. Pi\u00e8ce \u00e0 17-18 \u00b0C, ventilateur \u00e0 fond. 40-60 g de glucides 1-2 h avant.\nSi FC > 160 en fin de bloc 2 : bloc 3 \u00e0 85 % ou arr\u00eat.\n\n\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 3x\n- 10m 88% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 10m 50%"
     },
     {
       "id": 141234137,
       "date": "2026-11-12",
-      "name": "V-5 \u00b7 30\"/15\" 3 s\u00e9ries de 10",
+      "name": "V-1 \u00b7 VO2max 5\u00d73'",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 69,
-      "duration_hours": 1.01,
-      "duration_formatted": "1h30s",
-      "workout_summary": "10m @122W | 2\u00d730s @234W / 1m30s rec | 3m @117W | 10\u00d730s @238W / 15s rec | 3m @97W | 10\u00d730s @238W / 15s rec | 3m @97W | 10\u00d730s @238W / 15s rec | 5m @122W | 10m @97W",
+      "planned_tss": 66,
+      "duration_hours": 0.95,
+      "duration_formatted": "57m",
+      "workout_summary": "10m @121W | 2\u00d730s @232W / 1m30s rec | 3m @116W | 5\u00d73m @218W / 3m rec | 10m @97W",
       "has_terrain": false,
-      "description": "\u00c9chauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nS\u00e9rie 1 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 3m 50%\n\nS\u00e9rie 2 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 3m 50%\n\nS\u00e9rie 3 10x\n- 30s 120-125% 95-105rpm\n- 15s 50%\n\n- 5m 60-65%\n\nRetour au calme\n- 10m 50%"
+      "description": "Remplace V-5 (30/15). M\u00eame format que le V-1 du 8/10, avec la FTP de 180 W : blocs \u00e0 ~198-207 W.\nPi\u00e8ce \u00e0 17-18 \u00b0C. Si la puissance ne tient pas sur une r\u00e9p\u00e9tition, arr\u00eater \u00e0 4.\n\n\u00c9chauffement\n- 10m ramp 50-75%\n\nActivation 2x\n- 30s 120%\n- 90s 55%\n\n- 3m 60%\n\nVO2max 5x\n- 3m 110-115% 95-100rpm\n- 3m 50%\n\nRetour au calme\n- 10m 50%"
     },
     {
       "id": 141234138,
@@ -2145,15 +2145,15 @@
     {
       "id": 141234139,
       "date": "2026-11-14",
-      "name": "E-2h30 \u00b7 Longue Z2 2h30",
+      "name": "E-2h00 \u00b7 Longue Z2 2h00",
       "type": "WORKOUT",
       "sport_type": "Ride",
-      "planned_tss": 111,
-      "duration_hours": 2.5,
-      "duration_formatted": "2h30m",
+      "planned_tss": 88,
+      "duration_hours": 2.0,
+      "duration_formatted": "2h",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Dehors si sec, sinon remplacer par E-HT (1h35 home trainer \u00e0 65-70 %).\nPlafond 75 % en c\u00f4te. Sortie > 90 min : 40-60 g de glucides par heure.\n- 15m 55-65%"
+      "description_preview": "Raccourcie (2h30 \u2192 2h00) pour une remont\u00e9e progressive de la charge.\nDehors si sec, sinon home trainer 1h35 \u00e0 64-67 %. Dehors (4iiii, FTP 194) : 126-140 W sur le plat, plafond 150 W en bosse, NP < 140 W.\n40-60 g de glucides par heure."
     },
     {
       "id": 141234141,
@@ -2161,10 +2161,10 @@
       "name": "E-75 \u00b7 Z2 HT 75' + v\u00e9locit\u00e9",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 53,
+      "planned_tss": 54,
       "duration_hours": 1.25,
       "duration_formatted": "1h15m",
-      "workout_summary": "10m @112W | 15m @131W | 3\u00d75m @131W / 5m rec | 15m @131W | 5m @97W",
+      "workout_summary": "10m @112W | 15m @130W | 3\u00d75m @130W / 5m rec | 15m @130W | 5m @97W",
       "has_terrain": false
     },
     {
@@ -2201,7 +2201,7 @@
       "planned_tss": 79,
       "duration_hours": 1.13,
       "duration_formatted": "1h8m",
-      "workout_summary": "10m @122W | 3\u00d71m @189W / 1m rec | 3\u00d72m @185W / 1m rec | 1m @185W | 6m @107W | 3\u00d72m @185W / 1m rec | 1m @185W | 6m @107W | 3\u00d72m @185W / 1m rec | 1m @185W | 10m @97W",
+      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 3\u00d72m @184W / 1m rec | 1m @184W | 6m @106W | 3\u00d72m @184W / 1m rec | 1m @184W | 6m @106W | 3\u00d72m @184W / 1m rec | 1m @184W | 10m @97W",
       "has_terrain": false
     },
     {
@@ -2213,7 +2213,7 @@
       "planned_tss": 77,
       "duration_hours": 1.12,
       "duration_formatted": "1h7m",
-      "workout_summary": "10m @122W | 2\u00d730s @234W / 1m30s rec | 3m @117W | 4\u00d75m @210W / 5m rec | 10m @97W",
+      "workout_summary": "10m @121W | 2\u00d730s @232W / 1m30s rec | 3m @116W | 4\u00d75m @209W / 5m rec | 10m @97W",
       "has_terrain": false
     },
     {
@@ -2234,7 +2234,7 @@
       "name": "E-2h45 \u00b7 Longue Z2 2h45",
       "type": "WORKOUT",
       "sport_type": "Ride",
-      "planned_tss": 122,
+      "planned_tss": 123,
       "duration_hours": 2.75,
       "duration_formatted": "2h45m",
       "workout_summary": null,
@@ -2247,10 +2247,10 @@
       "name": "E-75 \u00b7 Z2 HT 75' + v\u00e9locit\u00e9",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 53,
+      "planned_tss": 54,
       "duration_hours": 1.25,
       "duration_formatted": "1h15m",
-      "workout_summary": "10m @112W | 15m @131W | 3\u00d75m @131W / 5m rec | 15m @131W | 5m @97W",
+      "workout_summary": "10m @112W | 15m @130W | 3\u00d75m @130W / 5m rec | 15m @130W | 5m @97W",
       "has_terrain": false
     },
     {
@@ -2287,7 +2287,7 @@
       "planned_tss": 65,
       "duration_hours": 1.0,
       "duration_formatted": "1h",
-      "workout_summary": "10m @122W | 3\u00d71m @189W / 1m rec | 2\u00d712m @185W / 6m rec | 8m @97W",
+      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 2\u00d712m @184W / 6m rec | 8m @97W",
       "has_terrain": false
     },
     {
