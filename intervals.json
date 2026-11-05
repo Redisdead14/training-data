@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T11:34:03.322406",
+  "generated_at": "2026-11-05T16:20:26.170998",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -451,6 +451,130 @@
           "sufficient": true
         }
       }
+    },
+    {
+      "activity_id": "i206221437",
+      "date": "2026-11-05",
+      "start_datetime": "2026-11-05T16:59:50",
+      "type": "VirtualRide",
+      "name": "TEST \u00b7 Test rampe Zwift",
+      "interval_summary": [
+        "1x 1m59s 157bpm",
+        "1x 63s 168bpm"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 484,
+          "moving_secs": 484,
+          "start_secs": 0,
+          "end_secs": 484,
+          "avg_power": 121,
+          "max_power": 201,
+          "avg_hr": 122,
+          "max_hr": 150,
+          "min_hr": 84,
+          "avg_cadence": 97.34297,
+          "zone": 1,
+          "w_bal_start": 15600,
+          "w_bal_end": 15588,
+          "training_load": 5.883734
+        },
+        {
+          "type": "WORK",
+          "label": "119s@206w106rpm",
+          "duration_secs": 119,
+          "moving_secs": 119,
+          "start_secs": 484,
+          "end_secs": 603,
+          "avg_power": 206,
+          "max_power": 222,
+          "avg_hr": 157,
+          "max_hr": 165,
+          "min_hr": 150,
+          "avg_cadence": 105.72269,
+          "zone": 4,
+          "w_bal_start": 15584,
+          "w_bal_end": 14249,
+          "training_load": 3.5823443
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "moving_secs": 1,
+          "start_secs": 603,
+          "end_secs": 604,
+          "avg_power": 222,
+          "max_power": 222,
+          "avg_hr": 165,
+          "max_hr": 165,
+          "min_hr": 165,
+          "avg_cadence": 109.0,
+          "zone": 5,
+          "w_bal_start": 14222,
+          "w_bal_end": 14222,
+          "training_load": 0.035356857
+        },
+        {
+          "type": "WORK",
+          "label": "63s@239w108rpm",
+          "duration_secs": 63,
+          "moving_secs": 63,
+          "start_secs": 604,
+          "end_secs": 667,
+          "avg_power": 239,
+          "max_power": 254,
+          "avg_hr": 168,
+          "max_hr": 171,
+          "min_hr": 166,
+          "avg_cadence": 107.92063,
+          "zone": 5,
+          "w_bal_start": 14180,
+          "w_bal_end": 11398,
+          "training_load": 2.5415845
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 32,
+          "moving_secs": 32,
+          "start_secs": 667,
+          "end_secs": 699,
+          "avg_power": 25,
+          "max_power": 257,
+          "avg_hr": 160,
+          "max_hr": 171,
+          "min_hr": 152,
+          "avg_cadence": 25.0,
+          "zone": 4,
+          "w_bal_start": 11336,
+          "w_bal_end": 12593,
+          "training_load": 0.24079406
+        }
+      ],
+      "zone_basis": "power",
+      "dfa": {
+        "avg": null,
+        "p25": null,
+        "p50": null,
+        "p75": null,
+        "tiz_easy": null,
+        "tiz_endurance": null,
+        "tiz_tempo": null,
+        "tiz_supra": null,
+        "drift": null,
+        "easy_guard_crossing": null,
+        "lt1_crossing": null,
+        "lt2_crossing": null,
+        "quality": {
+          "valid_secs": 577,
+          "total_secs": 699,
+          "valid_pct": 82.5,
+          "artifact_state": "complete",
+          "artifact_coverage_pct": 100.0,
+          "artifact_rate_avg": 0.37,
+          "sufficient": false
+        }
+      }
     }
   ],
   "fetch_state": {
@@ -525,6 +649,24 @@
         "attempts": 1,
         "first_seen": "2026-11-03T16:34:27.033592",
         "last_attempt": "2026-11-03T16:34:27.033592",
+        "status": "ok",
+        "reason": "ok"
+      }
+    },
+    "i206221437": {
+      "date": "2026-11-05",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-11-05T16:20:26.170998",
+        "last_attempt": "2026-11-05T16:20:26.170998",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-11-05T16:11:53.532+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-11-05T16:20:26.170998",
+        "last_attempt": "2026-11-05T16:20:26.170998",
         "status": "ok",
         "reason": "ok"
       }
