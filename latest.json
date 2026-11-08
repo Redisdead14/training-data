@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-08T07:53:45.578418",
+    "last_updated": "2026-11-08T14:52:11.748906",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -267,7 +267,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 369,
+      "steps": 3949,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -681,7 +681,7 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 3.08,
+          "planned_tss_delta": 4.33,
           "hard_sessions_planned": 1,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 1,
@@ -723,7 +723,7 @@
     "p_max": 780,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-08T07:53:45.577322",
+    "calculation_timestamp": "2026-11-08T14:52:11.747581",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1809,7 +1809,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 369,
+      "steps": 3949,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1824,15 +1824,15 @@
     {
       "id": 141234132,
       "date": "2026-11-08",
-      "name": "E-60 \u00b7 Z2 HT 60'",
+      "name": "E-HT \u00b7 Longue Z2 1h30 (home trainer)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 42,
-      "duration_hours": 1.0,
-      "duration_formatted": "1h",
+      "planned_tss": 59,
+      "duration_hours": 1.5,
+      "duration_formatted": "1h30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Dimanche : au moins 3 h d'\u00e9cart avec F-Lower.\n\n- 10m ramp 50-65% 85-95rpm\n- 45m 65-70% 85-95rpm\n- 5m 50%"
+      "description": "Remplace la longue 1h45 dehors (non faite samedi) et le Z2 60' du jour.\nERG, watts D500 (FTP indoor 180) : Z2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb (D500 + ceinture).\nPi\u00e8ce \u00e0 17-18 \u00b0C, ventilateur \u00e0 fond. 40-50 g de glucides/h (1 bidon boisson maison + 1 p\u00e2te de fruits).\n90 min \u00e0 puissance constante en ERG = premi\u00e8re s\u00e9ance qualifiante pour l'indice de durabilit\u00e9.\nSi FC > 140 \u00e0 watts constants avant 60 min : retour au calme, arr\u00eat vers 1h15.\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2\n- 70m 64-67% 85-95rpm\n\nRetour au calme\n- 10m 50%"
     },
     {
       "id": 141995512,
