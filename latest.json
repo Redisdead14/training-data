@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-09T19:14:16.566923",
+    "last_updated": "2026-11-09T20:58:25.304851",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -182,7 +182,7 @@
   "history": {
     "available": true,
     "last_generated": "2026-11-08",
-    "age_days": 0,
+    "age_days": 1,
     "total_months": 7,
     "history_confidence": "medium"
   },
@@ -732,7 +732,7 @@
     "p_max": 780,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-09T19:14:16.565871",
+    "calculation_timestamp": "2026-11-09T20:58:25.304297",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1973,15 +1973,15 @@
     {
       "id": 153884866,
       "date": "2026-12-05",
-      "name": "E-2h30 \u00b7 Longue Z2 2h30",
+      "name": "E-HT \u00b7 Longue Z2 1h50",
       "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 112,
-      "duration_hours": 2.5,
-      "duration_formatted": "2h30m",
+      "sport_type": "VirtualRide",
+      "planned_tss": 75,
+      "duration_hours": 1.83,
+      "duration_formatted": "1h50m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nDehors si sec (4iiii, FTP 194) : 126-140 W sur le plat, plafond 150 W en bosse, NP < 140 W, relances assises.\nSinon home trainer 1h50 \u00e0 64-67 % (ERG D500)."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
     },
     {
       "id": 153884868,
@@ -2011,15 +2011,15 @@
     {
       "id": 153884871,
       "date": "2026-12-12",
-      "name": "E-2h30 \u00b7 Longue Z2 2h30",
+      "name": "E-HT \u00b7 Longue Z2 1h50",
       "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 112,
-      "duration_hours": 2.5,
-      "duration_formatted": "2h30m",
+      "sport_type": "VirtualRide",
+      "planned_tss": 75,
+      "duration_hours": 1.83,
+      "duration_formatted": "1h50m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nDehors si sec (4iiii, FTP 194) : 126-140 W sur le plat, plafond 150 W en bosse, NP < 140 W, relances assises.\nSinon home trainer 1h50 \u00e0 64-67 % (ERG D500)."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
     },
     {
       "id": 153884872,
@@ -2049,15 +2049,15 @@
     {
       "id": 153884875,
       "date": "2026-12-19",
-      "name": "E-2h45 \u00b7 Longue Z2 2h45",
+      "name": "E-HT \u00b7 Longue Z2 2h00",
       "type": "WORKOUT",
-      "sport_type": "Ride",
-      "planned_tss": 123,
-      "duration_hours": 2.75,
-      "duration_formatted": "2h45m",
+      "sport_type": "VirtualRide",
+      "planned_tss": 82,
+      "duration_hours": 2.0,
+      "duration_formatted": "2h",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nDehors si sec (4iiii, FTP 194) : 126-140 W sur le plat, plafond 150 W en bosse, NP < 140 W, relances assises.\nSinon home trainer 2h00 \u00e0 64-67 % (ERG D500)."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
     }
   ],
   "workout_summary_stats": {
