@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-10T15:39:15.130219",
+    "last_updated": "2026-11-10T18:51:29.193231",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -692,12 +692,12 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 2.59,
+          "planned_tss_delta": 2.25,
           "hard_sessions_planned": 1,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 1,
           "race_proximity": null,
-          "next_week_load": 2.43,
+          "next_week_load": 2.12,
           "plan_coverage_current_week": 1.5,
           "plan_coverage_next_week": 1.5
         },
@@ -734,7 +734,7 @@
     "p_max": 779,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-10T15:39:15.129447",
+    "calculation_timestamp": "2026-11-10T18:51:29.192233",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1692,15 +1692,15 @@
     {
       "id": 141234135,
       "date": "2026-11-10",
-      "name": "SS-1b \u00b7 Sweet spot 3\u00d710' (88 %)",
+      "name": "SS-1b \u00b7 Sweet spot 3\u00d710' (158 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 69,
+      "planned_tss": 59,
       "duration_hours": 1.18,
       "duration_formatted": "1h11m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 3\u00d710m @170W / 5m rec | 10m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 3\u00d710m @158W / 5m rec | 10m @90W",
       "has_terrain": false,
-      "description": "Remplace T-2 (seuil 3\u00d715') : reprise progressive avec la FTP de 180 W.\nERG D500 : blocs \u00e0 ~158 W. Pi\u00e8ce \u00e0 17-18 \u00b0C, ventilateur \u00e0 fond. 40-60 g de glucides 1-2 h avant.\nSi FC > 160 en fin de bloc 2 : bloc 3 \u00e0 85 % ou arr\u00eat.\n\n\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 3x\n- 10m 88% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 10m 50%"
+      "description": "Plan perte de poids \u2192 76 kg. Reprise du sweet spot avec la FTP de 180 W.\nCibles en watts D500 (ERG) pour \u00e9viter tout calcul sur la mauvaise FTP : blocs \u00e0 158 W (88 % de 180).\nPi\u00e8ce \u00e0 17-18 \u00b0C, ventilateur \u00e0 fond. 40-60 g de glucides 1-2 h avant, jamais \u00e0 jeun.\nSi FC > 160 en fin de bloc 2 : bloc 3 \u00e0 150 W ou arr\u00eat.\n\n\u00c9chauffement\n- 10m ramp 90-135w 85-95rpm\n\nActivation 3x\n- 1m 175w\n- 1m 100w\n\nSweet spot 3x\n- 10m 158w 85-95rpm\n- 5m 100w\n\nRetour au calme\n- 10m 90w"
     },
     {
       "id": 141234137,
@@ -1708,12 +1708,12 @@
       "name": "Z2 75' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 50,
+      "planned_tss": 44,
       "duration_hours": 1.25,
       "duration_formatted": "1h15m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Plan 3 s\u00e9ances/semaine \u2014 priorit\u00e9 perte de poids.\nERG, watts D500 (FTP indoor 180) : Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur.\n1 bidon boisson maison.\n\nRenfo full-body 20 min juste apr\u00e8s (2 s\u00e9ries, RIR 3, jamais \u00e0 l'\u00e9chec) \u2014 pr\u00e9serve la masse maigre pendant la perte de poids :\n- Split squat bulgare 2\u00d78/jambe\n- Soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe\n- Pompes inclin\u00e9es 2\u00d78\n- Rowing 1 bras 2\u00d710/bras\n- Gainage 2\u00d730 s\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2\n- 60m 64-67% 85-95rpm\n\nRetour au calme\n- 5m 50%"
+      "description": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\n\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance.\n\n\u00c9chauffement\n- 10m ramp 90-112w 85-95rpm\n\nZ2\n- 60m 115-121w 85-95rpm\n\nRetour au calme\n- 5m 90w"
     },
     {
       "id": 141234139,
@@ -1721,25 +1721,25 @@
       "name": "E-HT \u00b7 Longue Z2 1h30",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 61,
+      "planned_tss": 53,
       "duration_hours": 1.5,
       "duration_formatted": "1h30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). \nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit.\nSe lever 30 s toutes les 15 min (selle).\nOption dehors si sec : 2h00, 126-140 W au 4iiii (FTP 194), plafond 150 W en bosse, NP < 140 W.\n\n\u00c9chauffement\n- 10m ramp 50-62% 85-95rpm\n\nZ2\n- 75m 64-67% 85-95rpm\n\nRetour au calme\n- 5m 50%"
+      "description": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h, ne pas la faire en d\u00e9ficit. Se lever 30 s toutes les 15 min.\nOption dehors si sec : 2h00, 126-140 W au 4iiii (FTP 194), plafond 150 W en bosse, NP < 140 W.\n\n\u00c9chauffement\n- 10m ramp 90-112w 85-95rpm\n\nZ2\n- 75m 115-121w 85-95rpm\n\nRetour au calme\n- 5m 90w"
     },
     {
       "id": 141234143,
       "date": "2026-11-17",
-      "name": "SS-2 \u00b7 Sweet spot 3\u00d712' (88 %)",
+      "name": "SS-2 \u00b7 Sweet spot 3\u00d712' (158 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 76,
+      "planned_tss": 65,
       "duration_hours": 1.25,
       "duration_formatted": "1h15m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 3\u00d712m @170W / 5m rec | 8m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 3\u00d712m @158W / 5m rec | 8m @90W",
       "has_terrain": false,
-      "description": "Plan 3 s\u00e9ances/semaine. Entretien de la FTP pendant la perte de poids : ~158 W.\nERG, watts D500 (FTP indoor 180). Pi\u00e8ce 17-18 \u00b0C, ventilateur. 40-60 g de glucides 1-2 h avant (jamais \u00e0 jeun).\nSi FC > 160 en fin d'avant-dernier bloc : dernier bloc \u00e0 85 % ou arr\u00eat.\n\n\u00c9chauffement\n- 10m ramp 50-75% 85-95rpm\n\nActivation 3x\n- 1m 97%\n- 1m 55%\n\nSweet spot 3x\n- 12m 88% 85-95rpm\n- 5m 55%\n\nRetour au calme\n- 8m 50%"
+      "description": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nBlocs \u00e0 158 W (88 %). Pi\u00e8ce 17-18 \u00b0C, ventilateur \u00e0 fond. 40-60 g de glucides 1-2 h avant, jamais \u00e0 jeun.\nSi FC > 160 en fin d'avant-dernier bloc : dernier bloc 8 W plus bas ou arr\u00eat.\n\n\u00c9chauffement\n- 10m ramp 90-135w 85-95rpm\n\nActivation 3x\n- 1m 175w\n- 1m 100w\n\nBloc 3x\n- 12m 158w 85-95rpm\n- 5m 100w\n\nRetour au calme\n- 8m 90w"
     },
     {
       "id": 141234145,
@@ -1747,12 +1747,12 @@
       "name": "Z2 75' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 50,
+      "planned_tss": 44,
       "duration_hours": 1.25,
       "duration_formatted": "1h15m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan 3 s\u00e9ances/semaine \u2014 priorit\u00e9 perte de poids.\nERG, watts D500 (FTP indoor 180) : Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur.\n1 bidon boisson maison."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
     },
     {
       "id": 141234147,
@@ -1760,23 +1760,23 @@
       "name": "E-HT \u00b7 Longue Z2 1h45",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 71,
+      "planned_tss": 63,
       "duration_hours": 1.75,
       "duration_formatted": "1h45m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h, ne pas la faire en d\u00e9ficit. Se lever 30 s toutes les 15 min.\nOption dehors si sec : 2h15, 126-140 W au 4iiii (FTP 194), plafond 150 W en bosse, NP < 140 W."
     },
     {
       "id": 141234150,
       "date": "2026-11-24",
-      "name": "SS-3 \u00b7 Sweet spot 2\u00d715' (88 %)",
+      "name": "SS-3 \u00b7 Sweet spot 2\u00d715' (158 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 65,
+      "planned_tss": 56,
       "duration_hours": 1.07,
       "duration_formatted": "1h4m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 2\u00d715m @170W / 5m rec | 8m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d715m @158W / 5m rec | 8m @90W",
       "has_terrain": false
     },
     {
@@ -1785,12 +1785,12 @@
       "name": "Z2 60' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 40,
+      "planned_tss": 35,
       "duration_hours": 1.0,
       "duration_formatted": "1h",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Semaine plus l\u00e9g\u00e8re. Bilan poids / tour de taille ce week-end.\nERG, watts D500 (FTP indoor 180) : Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur.\n1 bidon boisson maison."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nSemaine plus l\u00e9g\u00e8re. Bilan poids / tour de taille ce week-end.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison."
     },
     {
       "id": 141234153,
@@ -1798,23 +1798,23 @@
       "name": "E-HT \u00b7 Longue Z2 1h20",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 54,
+      "planned_tss": 47,
       "duration_hours": 1.33,
       "duration_formatted": "1h20m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Semaine plus l\u00e9g\u00e8re \u2014 bilan du bloc.\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nSemaine plus l\u00e9g\u00e8re \u2014 bilan du bloc.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h, ne pas la faire en d\u00e9ficit. Se lever 30 s toutes les 15 min."
     },
     {
       "id": 153884864,
       "date": "2026-12-01",
-      "name": "SS-4 \u00b7 Sweet spot 2\u00d720' (88 %)",
+      "name": "SS-4 \u00b7 Sweet spot 2\u00d720' (158 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 78,
+      "planned_tss": 67,
       "duration_hours": 1.23,
       "duration_formatted": "1h14m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 2\u00d720m @170W / 5m rec | 8m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d720m @158W / 5m rec | 8m @90W",
       "has_terrain": false
     },
     {
@@ -1823,12 +1823,12 @@
       "name": "Z2 90' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 61,
+      "planned_tss": 53,
       "duration_hours": 1.5,
       "duration_formatted": "1h30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nERG, watts D500 (FTP indoor 180) : Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (2 s\u00e9ries, RIR 3, jamais \u00e0 l'\u00e9chec) \u2014 pr\u00e9serve la masse maigre :"
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
     },
     {
       "id": 153884866,
@@ -1836,23 +1836,23 @@
       "name": "E-HT \u00b7 Longue Z2 1h50",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 75,
+      "planned_tss": 66,
       "duration_hours": 1.83,
       "duration_formatted": "1h50m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h, ne pas la faire en d\u00e9ficit. Se lever 30 s toutes les 15 min.\nOption dehors si sec : 2h30, 126-140 W au 4iiii (FTP 194), plafond 150 W en bosse, NP < 140 W."
     },
     {
       "id": 153884868,
       "date": "2026-12-08",
-      "name": "SS-5 \u00b7 Sweet spot 3\u00d715' (88 %)",
+      "name": "SS-5 \u00b7 Sweet spot 3\u00d715' (158 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 87,
+      "planned_tss": 75,
       "duration_hours": 1.4,
       "duration_formatted": "1h24m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 3\u00d715m @170W / 5m rec | 8m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 3\u00d715m @158W / 5m rec | 8m @90W",
       "has_terrain": false
     },
     {
@@ -1861,12 +1861,12 @@
       "name": "Z2 90' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 61,
+      "planned_tss": 53,
       "duration_hours": 1.5,
       "duration_formatted": "1h30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nERG, watts D500 (FTP indoor 180) : Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (2 s\u00e9ries, RIR 3, jamais \u00e0 l'\u00e9chec) \u2014 pr\u00e9serve la masse maigre :"
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
     },
     {
       "id": 153884871,
@@ -1874,23 +1874,23 @@
       "name": "E-HT \u00b7 Longue Z2 1h50",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 75,
+      "planned_tss": 66,
       "duration_hours": 1.83,
       "duration_formatted": "1h50m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h, ne pas la faire en d\u00e9ficit. Se lever 30 s toutes les 15 min.\nOption dehors si sec : 2h30, 126-140 W au 4iiii (FTP 194), plafond 150 W en bosse, NP < 140 W."
     },
     {
       "id": 153884872,
       "date": "2026-12-15",
-      "name": "TP-1 \u00b7 Tempo 2\u00d725' (80 %)",
+      "name": "TP-1 \u00b7 Tempo 2\u00d725' (144 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 78,
+      "planned_tss": 68,
       "duration_hours": 1.4,
       "duration_formatted": "1h24m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 2\u00d725m @155W / 5m rec | 8m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d725m @144W / 5m rec | 8m @90W",
       "has_terrain": false
     },
     {
@@ -1899,12 +1899,12 @@
       "name": "Z2 90' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 61,
+      "planned_tss": 53,
       "duration_hours": 1.5,
       "duration_formatted": "1h30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nERG, watts D500 (FTP indoor 180) : Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (2 s\u00e9ries, RIR 3, jamais \u00e0 l'\u00e9chec) \u2014 pr\u00e9serve la masse maigre :"
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
     },
     {
       "id": 153884875,
@@ -1912,23 +1912,23 @@
       "name": "E-HT \u00b7 Longue Z2 2h00",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 82,
+      "planned_tss": 72,
       "duration_hours": 2.0,
       "duration_formatted": "2h",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine).\nHome trainer par d\u00e9faut : ERG, watts D500 (FTP indoor 180), Z2 115-121 W. Profil Edge \u00ab Home trainer \u00bb.\nPi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h \u2014 ne pas la faire en d\u00e9ficit."
+      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur puissant. 1 \u00e0 1,5 bidon/h avec sel. 40-60 g de glucides/h, ne pas la faire en d\u00e9ficit. Se lever 30 s toutes les 15 min.\nOption dehors si sec : 2h45, 126-140 W au 4iiii (FTP 194), plafond 150 W en bosse, NP < 140 W."
     },
     {
       "id": 153884877,
       "date": "2026-12-22",
-      "name": "SS-6 \u00b7 Sweet spot 2\u00d715' (88 %)",
+      "name": "SS-6 \u00b7 Sweet spot 2\u00d715' (158 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
-      "planned_tss": 65,
+      "planned_tss": 56,
       "duration_hours": 1.07,
       "duration_formatted": "1h4m",
-      "workout_summary": "10m @121W | 3\u00d71m @188W / 1m rec | 2\u00d715m @170W / 5m rec | 8m @97W",
+      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d715m @158W / 5m rec | 8m @90W",
       "has_terrain": false
     }
   ],
