@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-12T16:44:33.401181",
+    "last_updated": "2026-11-12T17:43:20.467051",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -277,7 +277,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 6460,
+      "steps": 6525,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -697,7 +697,7 @@
           "current_week_hard_days_completed": 1,
           "current_week_hard_days_total": 1,
           "race_proximity": null,
-          "next_week_load": 2.12,
+          "next_week_load": 1.4,
           "plan_coverage_current_week": 1.0,
           "plan_coverage_next_week": 1.5
         },
@@ -734,7 +734,7 @@
     "p_max": 777,
     "power_model_source": "wellness.sportInfo",
     "vo2max": 45.0,
-    "calculation_timestamp": "2026-11-12T16:44:33.400436",
+    "calculation_timestamp": "2026-11-12T17:43:20.466032",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
@@ -1782,7 +1782,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 6460,
+      "steps": 6525,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1823,28 +1823,28 @@
     {
       "id": 141234143,
       "date": "2026-11-17",
-      "name": "SS-2 \u00b7 Sweet spot 3\u00d712' (158 W)",
+      "name": "Footing 30'",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 65,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
-      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 3\u00d712m @158W / 5m rec | 8m @90W",
+      "sport_type": "Run",
+      "planned_tss": 25,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": null,
       "has_terrain": false,
-      "description": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nBlocs \u00e0 158 W (88 %). Pi\u00e8ce 17-18 \u00b0C, ventilateur \u00e0 fond. 40-60 g de glucides 1-2 h avant, jamais \u00e0 jeun.\nSi FC > 160 en fin d'avant-dernier bloc : dernier bloc 8 W plus bas ou arr\u00eat.\n\n\u00c9chauffement\n- 10m ramp 90-135w 85-95rpm\n\nActivation 3x\n- 1m 175w\n- 1m 100w\n\nBloc 3x\n- 12m 158w 85-95rpm\n- 5m 100w\n\nRetour au calme\n- 8m 90w"
+      "description": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\n\n\u00c9chauffement\n- 5m Z1 HR\n\nFooting\n- 20m Z2 HR\n\nRetour au calme\n- 5m Z1 HR"
     },
     {
       "id": 141234145,
       "date": "2026-11-19",
-      "name": "Z2 75' + renfo full-body",
+      "name": "Footing 30' + renfo full-body",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 44,
-      "duration_hours": 1.25,
-      "duration_formatted": "1h15m",
+      "sport_type": "Run",
+      "planned_tss": 25,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\n\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance.\n\n\u00c9chauffement\n- 10m ramp 90-112w 85-95rpm\n\nZ2\n- 60m 115-121w 85-95rpm\n\nRetour au calme\n- 5m 90w"
+      "description": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nJuste apr\u00e8s : renfo full-body 20 min (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance.\n\n\u00c9chauffement\n- 5m Z1 HR\n\nFooting\n- 20m Z2 HR\n\nRetour au calme\n- 5m Z1 HR"
     },
     {
       "id": 141234147,
@@ -1862,27 +1862,28 @@
     {
       "id": 141234150,
       "date": "2026-11-24",
-      "name": "SS-3 \u00b7 Sweet spot 2\u00d715' (158 W)",
+      "name": "Footing 30'",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 56,
-      "duration_hours": 1.07,
-      "duration_formatted": "1h4m",
-      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d715m @158W / 5m rec | 8m @90W",
-      "has_terrain": false
+      "sport_type": "Run",
+      "planned_tss": 25,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nSemaine plus l\u00e9g\u00e8re.\n\u00c9chauffement"
     },
     {
       "id": 141234151,
       "date": "2026-11-26",
-      "name": "Z2 60' + renfo full-body",
+      "name": "Footing 30' + renfo full-body",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 35,
-      "duration_hours": 1.0,
-      "duration_formatted": "1h",
+      "sport_type": "Run",
+      "planned_tss": 25,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nSemaine plus l\u00e9g\u00e8re. Bilan poids / tour de taille ce week-end.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison."
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nSemaine plus l\u00e9g\u00e8re. Bilan poids / tour de taille ce week-end.\nJuste apr\u00e8s : renfo full-body 20 min (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
     },
     {
       "id": 141234153,
@@ -1900,27 +1901,28 @@
     {
       "id": 153884864,
       "date": "2026-12-01",
-      "name": "SS-4 \u00b7 Sweet spot 2\u00d720' (158 W)",
+      "name": "Footing 35'",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 67,
-      "duration_hours": 1.23,
-      "duration_formatted": "1h14m",
-      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d720m @158W / 5m rec | 8m @90W",
-      "has_terrain": false
+      "sport_type": "Run",
+      "planned_tss": 30,
+      "duration_hours": 0.58,
+      "duration_formatted": "35m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\n\u00c9chauffement\n- 5m Z1 HR"
     },
     {
       "id": 153884865,
       "date": "2026-12-03",
-      "name": "Z2 90' + renfo full-body",
+      "name": "Footing 35' + renfo full-body",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 53,
-      "duration_hours": 1.5,
-      "duration_formatted": "1h30m",
+      "sport_type": "Run",
+      "planned_tss": 30,
+      "duration_hours": 0.58,
+      "duration_formatted": "35m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nJuste apr\u00e8s : renfo full-body 20 min (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance.\n\u00c9chauffement"
     },
     {
       "id": 153884866,
@@ -1938,27 +1940,28 @@
     {
       "id": 153884868,
       "date": "2026-12-08",
-      "name": "SS-5 \u00b7 Sweet spot 3\u00d715' (158 W)",
+      "name": "Footing 35'",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 75,
-      "duration_hours": 1.4,
-      "duration_formatted": "1h24m",
-      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 3\u00d715m @158W / 5m rec | 8m @90W",
-      "has_terrain": false
+      "sport_type": "Run",
+      "planned_tss": 30,
+      "duration_hours": 0.58,
+      "duration_formatted": "35m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\n\u00c9chauffement\n- 5m Z1 HR"
     },
     {
       "id": 153884869,
       "date": "2026-12-10",
-      "name": "Z2 90' + renfo full-body",
+      "name": "Footing 40' + renfo full-body",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 53,
-      "duration_hours": 1.5,
-      "duration_formatted": "1h30m",
+      "sport_type": "Run",
+      "planned_tss": 35,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nJuste apr\u00e8s : renfo full-body 20 min (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance.\n\u00c9chauffement"
     },
     {
       "id": 153884871,
@@ -1976,27 +1979,28 @@
     {
       "id": 153884872,
       "date": "2026-12-15",
-      "name": "TP-1 \u00b7 Tempo 2\u00d725' (144 W)",
+      "name": "Footing 40'",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 68,
-      "duration_hours": 1.4,
-      "duration_formatted": "1h24m",
-      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d725m @144W / 5m rec | 8m @90W",
-      "has_terrain": false
+      "sport_type": "Run",
+      "planned_tss": 35,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\n\u00c9chauffement\n- 5m Z1 HR"
     },
     {
       "id": 153884873,
       "date": "2026-12-17",
-      "name": "Z2 90' + renfo full-body",
+      "name": "Footing 40' + renfo full-body",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 53,
-      "duration_hours": 1.5,
-      "duration_formatted": "1h30m",
+      "sport_type": "Run",
+      "planned_tss": 35,
+      "duration_hours": 0.67,
+      "duration_formatted": "40m",
       "workout_summary": null,
       "has_terrain": false,
-      "description_preview": "Plan perte de poids \u2192 76 kg (3 s\u00e9ances/semaine). Cibles en watts D500 (ERG), FTP int\u00e9rieure 180 W.\nZ2 \u00e0 115-121 W. Profil Edge \u00ab Home trainer \u00bb. Pi\u00e8ce 17-18 \u00b0C, ventilateur. 1 bidon boisson maison.\nRenfo full-body 20 min juste apr\u00e8s (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance."
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nJuste apr\u00e8s : renfo full-body 20 min (onglet \u00ab Jeudi \u00bb de l'appli Renfo) : split squat bulgare 2\u00d78/jambe \u00b7 soulev\u00e9 de terre roumain 1 jambe 2\u00d78/jambe \u00b7 pompes inclin\u00e9es 2\u00d78 \u00b7 rowing 1 bras 2\u00d710/bras \u00b7 gainage 2\u00d730 s. RIR 3, jamais \u00e0 l'\u00e9chec. Ajouter son S-RPE \u00e0 cette s\u00e9ance.\n\u00c9chauffement"
     },
     {
       "id": 153884875,
@@ -2014,14 +2018,15 @@
     {
       "id": 153884877,
       "date": "2026-12-22",
-      "name": "SS-6 \u00b7 Sweet spot 2\u00d715' (158 W)",
+      "name": "Footing 30'",
       "type": "WORKOUT",
-      "sport_type": "VirtualRide",
-      "planned_tss": 56,
-      "duration_hours": 1.07,
-      "duration_formatted": "1h4m",
-      "workout_summary": "10m @112W | 3\u00d71m @175W / 1m rec | 2\u00d715m @158W / 5m rec | 8m @90W",
-      "has_terrain": false
+      "sport_type": "Run",
+      "planned_tss": 25,
+      "duration_hours": 0.5,
+      "duration_formatted": "30m",
+      "workout_summary": null,
+      "has_terrain": false,
+      "description_preview": "Plan perte de poids \u2192 76 kg. Footing facile : FC 125-140, allure o\u00f9 tu peux parler. Marche 1-2 min si la FC d\u00e9passe 140, puis repars. Terrain plat, chaussures de course.\nSemaine de No\u00ebl, plus l\u00e9g\u00e8re.\n\u00c9chauffement"
     },
     {
       "id": 153884879,
@@ -2039,11 +2044,11 @@
   ],
   "workout_summary_stats": {
     "attempted": 19,
-    "success": 6,
-    "patternA": 6,
+    "success": 0,
+    "patternA": 0,
     "patternB": 0,
     "bail_no_workout_doc": 0,
-    "bail_no_match": 13
+    "bail_no_match": 19
   },
   "weekly_summary": {
     "total_training_hours": 0.56,
