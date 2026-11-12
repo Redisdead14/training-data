@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:28:49.588488",
+  "generated_at": "2026-11-12T16:44:32.877944",
   "schema_version": 1,
   "version": "3.133",
   "script_hash": "eb9aac916af3",
@@ -471,6 +471,111 @@
           "sufficient": false
         }
       }
+    },
+    {
+      "activity_id": "i209206291",
+      "date": "2026-11-12",
+      "start_datetime": "2026-11-12T16:54:20",
+      "type": "Run",
+      "name": "Pont-H\u00e9bert Course \u00e0 pied",
+      "interval_summary": [
+        "1x 5m40s 133bpm",
+        "4x 5m49s 155bpm",
+        "1x 4m53s 161bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "340s@133bpm82rpm",
+          "duration_secs": 340,
+          "moving_secs": 340,
+          "start_secs": 0,
+          "end_secs": 340,
+          "avg_hr": 133,
+          "max_hr": 149,
+          "min_hr": 84,
+          "avg_cadence": 81.97941,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "moving_secs": 1,
+          "start_secs": 340,
+          "end_secs": 341,
+          "avg_hr": 147,
+          "max_hr": 147,
+          "min_hr": 147,
+          "avg_cadence": 85.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "349s@155bpm84rpm",
+          "duration_secs": 345,
+          "moving_secs": 345,
+          "start_secs": 341,
+          "end_secs": 686,
+          "avg_hr": 149,
+          "max_hr": 156,
+          "min_hr": 143,
+          "avg_cadence": 84.36232,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "349s@155bpm84rpm",
+          "duration_secs": 346,
+          "moving_secs": 346,
+          "start_secs": 686,
+          "end_secs": 1032,
+          "avg_hr": 152,
+          "max_hr": 156,
+          "min_hr": 146,
+          "avg_cadence": 83.6763,
+          "zone": 3
+        },
+        {
+          "type": "WORK",
+          "label": "349s@155bpm84rpm",
+          "duration_secs": 344,
+          "moving_secs": 344,
+          "start_secs": 1032,
+          "end_secs": 1376,
+          "avg_hr": 159,
+          "max_hr": 169,
+          "min_hr": 153,
+          "avg_cadence": 84.23837,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "349s@155bpm84rpm",
+          "duration_secs": 359,
+          "moving_secs": 359,
+          "start_secs": 1376,
+          "end_secs": 1735,
+          "avg_hr": 159,
+          "max_hr": 164,
+          "min_hr": 155,
+          "avg_cadence": 83.426186,
+          "zone": 4
+        },
+        {
+          "type": "WORK",
+          "label": "293s@161bpm85rpm",
+          "duration_secs": 293,
+          "moving_secs": 293,
+          "start_secs": 1735,
+          "end_secs": 2028,
+          "avg_hr": 161,
+          "max_hr": 168,
+          "min_hr": 156,
+          "avg_cadence": 84.87372,
+          "zone": 4
+        }
+      ],
+      "zone_basis": "hr"
     }
   ],
   "fetch_state": {
@@ -546,6 +651,25 @@
         "last_attempt": "2026-11-05T16:20:26.170998",
         "status": "ok",
         "reason": "ok"
+      }
+    },
+    "i209206291": {
+      "date": "2026-11-12",
+      "intervals": {
+        "attempts": 1,
+        "first_seen": "2026-11-12T16:44:32.877944",
+        "last_attempt": "2026-11-12T16:44:32.877944",
+        "status": "ok",
+        "reason": "ok",
+        "source_icu_sync_date": "2026-11-12T16:32:35.637+00:00"
+      },
+      "streams": {
+        "attempts": 1,
+        "first_seen": "2026-11-12T16:44:32.877944",
+        "last_attempt": "2026-11-12T16:44:32.877944",
+        "status": "pending",
+        "reason": "no_data",
+        "next_retry_at": "2026-11-12T16:49:32.877944"
       }
     }
   }
