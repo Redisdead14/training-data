@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-15T16:51:27.837208",
+    "last_updated": "2026-11-15T21:31:03.942867",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -158,7 +158,7 @@
     },
     "phase_context": {
       "phase": "Recovery",
-      "phase_week": 1,
+      "phase_week": 2,
       "amber_threshold": 2,
       "modifier_applied": "default"
     },
@@ -181,8 +181,8 @@
   },
   "history": {
     "available": true,
-    "last_generated": "2026-11-08",
-    "age_days": 6,
+    "last_generated": "2026-11-15",
+    "age_days": 0,
     "total_months": 7,
     "history_confidence": "medium"
   },
@@ -681,7 +681,7 @@
       ],
       "basis": {
         "stream_1": {
-          "ctl_slope": -1.5,
+          "ctl_slope": -2.2,
           "acwr_trend": "stable",
           "hard_day_pattern": 0.3,
           "weeks_available": 4
@@ -699,8 +699,8 @@
         "data_quality": "good",
         "stream_agreement": null
       },
-      "previous_phase": null,
-      "phase_duration_weeks": 1,
+      "previous_phase": "Recovery",
+      "phase_duration_weeks": 2,
       "dossier_declared": null,
       "dossier_agreement": null
     },
@@ -729,7 +729,7 @@
     "p_max": 775,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-15T16:51:27.836416",
+    "calculation_timestamp": "2026-11-15T21:31:03.942302",
     "data_quality": {
       "hrv_data_points": 7,
       "rhr_data_points": 7,
