@@ -71,7 +71,7 @@
   },
   "metadata": {
     "athlete_id": "REDACTED",
-    "last_updated": "2026-11-25T16:37:49.849968",
+    "last_updated": "2026-11-25T20:03:25.851058",
     "data_range_days": 7,
     "extended_range_days": 28,
     "version": "3.133"
@@ -295,7 +295,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 365,
+      "steps": 412,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -692,14 +692,14 @@
           "weeks_available": 4
         },
         "stream_2": {
-          "planned_tss_delta": 5.88,
+          "planned_tss_delta": 2.94,
           "hard_sessions_planned": 0,
           "current_week_hard_days_completed": 0,
           "current_week_hard_days_total": 0,
           "race_proximity": null,
-          "next_week_load": 2.82,
-          "plan_coverage_current_week": 3.0,
-          "plan_coverage_next_week": 3.0
+          "next_week_load": 4.92,
+          "plan_coverage_current_week": 2.0,
+          "plan_coverage_next_week": 4.0
         },
         "data_quality": "good",
         "stream_agreement": null
@@ -734,7 +734,7 @@
     "p_max": 767,
     "power_model_source": "wellness.sportInfo",
     "vo2max": null,
-    "calculation_timestamp": "2026-11-25T16:37:49.849441",
+    "calculation_timestamp": "2026-11-25T20:03:25.850015",
     "data_quality": {
       "hrv_data_points": 6,
       "rhr_data_points": 7,
@@ -1609,7 +1609,7 @@
       "respiration": null,
       "body_fat_pct": null,
       "abdomen_cm": null,
-      "steps": 365,
+      "steps": 412,
       "hydration_volume_l": null,
       "kcal_consumed": null,
       "carbohydrates_g": null,
@@ -1636,7 +1636,7 @@
     },
     {
       "id": 141234151,
-      "date": "2026-11-26",
+      "date": "2026-11-28",
       "name": "Reprise 2 \u00b7 Z2 45' (110-118 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
@@ -1649,7 +1649,7 @@
     },
     {
       "id": 141234153,
-      "date": "2026-11-28",
+      "date": "2026-11-30",
       "name": "Reprise 3 \u00b7 Z2 60' (115-121 W)",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
@@ -1662,7 +1662,7 @@
     },
     {
       "id": 153884864,
-      "date": "2026-12-01",
+      "date": "2026-12-02",
       "name": "Footing 25'",
       "type": "WORKOUT",
       "sport_type": "Run",
@@ -1675,7 +1675,7 @@
     },
     {
       "id": 153884865,
-      "date": "2026-12-03",
+      "date": "2026-12-04",
       "name": "Footing 30' + renfo full-body",
       "type": "WORKOUT",
       "sport_type": "Run",
@@ -1688,7 +1688,7 @@
     },
     {
       "id": 153884866,
-      "date": "2026-12-05",
+      "date": "2026-12-06",
       "name": "E-HT \u00b7 Longue Z2 1h20",
       "type": "WORKOUT",
       "sport_type": "VirtualRide",
